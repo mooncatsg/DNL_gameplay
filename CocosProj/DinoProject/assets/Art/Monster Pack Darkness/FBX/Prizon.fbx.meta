@@ -1,0 +1,187 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "55fd3513-e778-4bba-97b3-08d06925d297",
+  "files": [],
+  "subMetas": {
+    "f8282": {
+      "importer": "gltf-mesh",
+      "uuid": "55fd3513-e778-4bba-97b3-08d06925d297@f8282",
+      "displayName": "",
+      "id": "f8282",
+      "name": "Prizon.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "55fd3513-e778-4bba-97b3-08d06925d297@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 20
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43c71": {
+      "importer": "gltf-embeded-image",
+      "uuid": "55fd3513-e778-4bba-97b3-08d06925d297@43c71",
+      "displayName": "",
+      "id": "43c71",
+      "name": "file1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "adacb": {
+      "importer": "gltf-embeded-image",
+      "uuid": "55fd3513-e778-4bba-97b3-08d06925d297@adacb",
+      "displayName": "",
+      "id": "adacb",
+      "name": "file2.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d20e9": {
+      "importer": "texture",
+      "uuid": "55fd3513-e778-4bba-97b3-08d06925d297@d20e9",
+      "displayName": "",
+      "id": "d20e9",
+      "name": "file1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "55fd3513-e778-4bba-97b3-08d06925d297@43c71"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e873a": {
+      "importer": "texture",
+      "uuid": "55fd3513-e778-4bba-97b3-08d06925d297@e873a",
+      "displayName": "",
+      "id": "e873a",
+      "name": "file2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "55fd3513-e778-4bba-97b3-08d06925d297@adacb"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f699a": {
+      "importer": "gltf-material",
+      "uuid": "55fd3513-e778-4bba-97b3-08d06925d297@f699a",
+      "displayName": "",
+      "id": "f699a",
+      "name": "M_Prizon_01.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e90d5": {
+      "importer": "gltf-scene",
+      "uuid": "55fd3513-e778-4bba-97b3-08d06925d297@e90d5",
+      "displayName": "",
+      "id": "e90d5",
+      "name": "Prizon.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1",
+        "uri": "55fd3513-e778-4bba-97b3-08d06925d297@43c71"
+      },
+      {
+        "name": "file2",
+        "uri": "55fd3513-e778-4bba-97b3-08d06925d297@adacb"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "55fd3513-e778-4bba-97b3-08d06925d297@e90d5",
+    "assetFinder": {
+      "meshes": [
+        "55fd3513-e778-4bba-97b3-08d06925d297@f8282"
+      ],
+      "skeletons": [
+        "55fd3513-e778-4bba-97b3-08d06925d297@438fe"
+      ],
+      "textures": [
+        "55fd3513-e778-4bba-97b3-08d06925d297@d20e9",
+        "55fd3513-e778-4bba-97b3-08d06925d297@e873a"
+      ],
+      "materials": [
+        "55fd3513-e778-4bba-97b3-08d06925d297@f699a"
+      ],
+      "scenes": [
+        "55fd3513-e778-4bba-97b3-08d06925d297@e90d5"
+      ]
+    }
+  }
+}

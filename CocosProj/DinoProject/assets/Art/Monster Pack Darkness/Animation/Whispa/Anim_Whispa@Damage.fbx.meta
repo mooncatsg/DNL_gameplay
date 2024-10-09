@@ -1,0 +1,78 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "267b8e43-5e6f-4adb-9c53-79d8efcd1333",
+  "files": [],
+  "subMetas": {
+    "beef0": {
+      "importer": "gltf-animation",
+      "uuid": "267b8e43-5e6f-4adb-9c53-79d8efcd1333@beef0",
+      "displayName": "",
+      "id": "beef0",
+      "name": "Damage.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3.9166667461395264
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f4f": {
+      "importer": "gltf-scene",
+      "uuid": "267b8e43-5e6f-4adb-9c53-79d8efcd1333@48f4f",
+      "displayName": "",
+      "id": "48f4f",
+      "name": "Anim_Whispa@Damage.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Anim_Whispa@Damage",
+        "duration": 3.9166667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Damage",
+            "from": 0,
+            "to": 3.9166667461395264,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "267b8e43-5e6f-4adb-9c53-79d8efcd1333@48f4f",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "267b8e43-5e6f-4adb-9c53-79d8efcd1333@48f4f"
+      ]
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f97edc21-68d4-45cc-a03a-f7aff2a37509",
+  "files": [],
+  "subMetas": {
+    "beef0": {
+      "importer": "gltf-animation",
+      "uuid": "f97edc21-68d4-45cc-a03a-f7aff2a37509@beef0",
+      "displayName": "",
+      "id": "beef0",
+      "name": "Damage.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4.666666507720947
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8aa4b": {
+      "importer": "gltf-scene",
+      "uuid": "f97edc21-68d4-45cc-a03a-f7aff2a37509@8aa4b",
+      "displayName": "",
+      "id": "8aa4b",
+      "name": "Anim_Prizon@Damage.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Anim_Prizon@Damage",
+        "duration": 4.666666507720947,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Damage",
+            "from": 0,
+            "to": 4.666666507720947,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "f97edc21-68d4-45cc-a03a-f7aff2a37509@8aa4b",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "f97edc21-68d4-45cc-a03a-f7aff2a37509@8aa4b"
+      ]
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a4850de3-47f7-4603-b415-784464f6a5b3",
+  "files": [],
+  "subMetas": {
+    "2bc6c": {
+      "importer": "gltf-animation",
+      "uuid": "a4850de3-47f7-4603-b415-784464f6a5b3@2bc6c",
+      "displayName": "",
+      "id": "2bc6c",
+      "name": "Move.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 6.3,
+          "to": 7.208333492279053
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ae5ec": {
+      "importer": "gltf-scene",
+      "uuid": "a4850de3-47f7-4603-b415-784464f6a5b3@ae5ec",
+      "displayName": "",
+      "id": "ae5ec",
+      "name": "Anim_Lusif@Move.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Anim_Lusif@Move",
+        "duration": 7.208333492279053,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Move",
+            "from": 6.3,
+            "to": 7.208333492279053,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "a4850de3-47f7-4603-b415-784464f6a5b3@ae5ec",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "a4850de3-47f7-4603-b415-784464f6a5b3@ae5ec"
+      ]
+    }
+  }
+}

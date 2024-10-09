@@ -1,0 +1,152 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "cd7fca13-6b2f-4ede-8872-f251c9282590",
+  "files": [],
+  "subMetas": {
+    "27340": {
+      "importer": "gltf-scene",
+      "uuid": "cd7fca13-6b2f-4ede-8872-f251c9282590@27340",
+      "displayName": "",
+      "id": "27340",
+      "name": "Death.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b21bf": {
+      "importer": "gltf-mesh",
+      "uuid": "cd7fca13-6b2f-4ede-8872-f251c9282590@b21bf",
+      "displayName": "",
+      "id": "b21bf",
+      "name": "Bunny.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "aa778": {
+      "importer": "gltf-mesh",
+      "uuid": "cd7fca13-6b2f-4ede-8872-f251c9282590@aa778",
+      "displayName": "",
+      "id": "aa778",
+      "name": "Machine.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73d50": {
+      "importer": "gltf-animation",
+      "uuid": "cd7fca13-6b2f-4ede-8872-f251c9282590@73d50",
+      "displayName": "",
+      "id": "73d50",
+      "name": "Die.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 0,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.2916667461395264
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "cd7fca13-6b2f-4ede-8872-f251c9282590@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 21
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9184c": {
+      "importer": "gltf-material",
+      "uuid": "cd7fca13-6b2f-4ede-8872-f251c9282590@9184c",
+      "displayName": "",
+      "id": "9184c",
+      "name": "SuperRare_mat.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 2.2916667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Die",
+            "from": 0,
+            "to": 2.2916667461395264,
+            "wrapMode": 0
+          }
+        ]
+      }
+    ],
+    "redirect": "cd7fca13-6b2f-4ede-8872-f251c9282590@27340",
+    "assetFinder": {
+      "meshes": [
+        "cd7fca13-6b2f-4ede-8872-f251c9282590@b21bf",
+        "cd7fca13-6b2f-4ede-8872-f251c9282590@aa778"
+      ],
+      "skeletons": [
+        "cd7fca13-6b2f-4ede-8872-f251c9282590@438fe"
+      ],
+      "textures": [],
+      "materials": [
+        "cd7fca13-6b2f-4ede-8872-f251c9282590@9184c"
+      ],
+      "scenes": [
+        "cd7fca13-6b2f-4ede-8872-f251c9282590@27340"
+      ]
+    }
+  }
+}

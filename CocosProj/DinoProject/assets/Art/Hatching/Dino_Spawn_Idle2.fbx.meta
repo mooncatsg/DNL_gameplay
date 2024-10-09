@@ -1,0 +1,393 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "99ab05fe-0783-43d1-b87e-09c81e552f3d",
+  "files": [],
+  "subMetas": {
+    "30732": {
+      "importer": "gltf-skeleton",
+      "uuid": "99ab05fe-0783-43d1-b87e-09c81e552f3d@30732",
+      "displayName": "",
+      "id": "30732",
+      "name": "UnnamedSkeleton-0.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 14
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "11c00": {
+      "importer": "gltf-mesh",
+      "uuid": "99ab05fe-0783-43d1-b87e-09c81e552f3d@11c00",
+      "displayName": "",
+      "id": "11c00",
+      "name": "Dino_Face.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c21b3": {
+      "importer": "gltf-mesh",
+      "uuid": "99ab05fe-0783-43d1-b87e-09c81e552f3d@c21b3",
+      "displayName": "",
+      "id": "c21b3",
+      "name": "Dino_Teeth.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f5d04": {
+      "importer": "gltf-mesh",
+      "uuid": "99ab05fe-0783-43d1-b87e-09c81e552f3d@f5d04",
+      "displayName": "",
+      "id": "f5d04",
+      "name": "Dino_Back.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a8cb7": {
+      "importer": "gltf-mesh",
+      "uuid": "99ab05fe-0783-43d1-b87e-09c81e552f3d@a8cb7",
+      "displayName": "",
+      "id": "a8cb7",
+      "name": "Dino_Body.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73b7f": {
+      "importer": "gltf-animation",
+      "uuid": "99ab05fe-0783-43d1-b87e-09c81e552f3d@73b7f",
+      "displayName": "",
+      "id": "73b7f",
+      "name": "Take 001.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 0,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.9583333134651184
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b16f3": {
+      "importer": "gltf-animation",
+      "uuid": "99ab05fe-0783-43d1-b87e-09c81e552f3d@b16f3",
+      "displayName": "",
+      "id": "b16f3",
+      "name": "Dino_Spawn_Idle2.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 22,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.9583333134651184
+        },
+        "events": [
+          {
+            "frame": 0.9333333333333333,
+            "functionName": "",
+            "parameters": []
+          },
+          {
+            "frame": 0.9333333333333333,
+            "functionName": "OnDinoIdleEnd",
+            "parameters": []
+          }
+        ],
+        "speed": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f1394": {
+      "importer": "gltf-skeleton",
+      "uuid": "99ab05fe-0783-43d1-b87e-09c81e552f3d@f1394",
+      "displayName": "",
+      "id": "f1394",
+      "name": "UnnamedSkeleton-1.skeleton",
+      "userData": {
+        "gltfIndex": 1,
+        "jointsLength": 14
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "75ee4": {
+      "importer": "gltf-skeleton",
+      "uuid": "99ab05fe-0783-43d1-b87e-09c81e552f3d@75ee4",
+      "displayName": "",
+      "id": "75ee4",
+      "name": "UnnamedSkeleton-2.skeleton",
+      "userData": {
+        "gltfIndex": 2,
+        "jointsLength": 13
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a72ab": {
+      "importer": "gltf-skeleton",
+      "uuid": "99ab05fe-0783-43d1-b87e-09c81e552f3d@a72ab",
+      "displayName": "",
+      "id": "a72ab",
+      "name": "UnnamedSkeleton-3.skeleton",
+      "userData": {
+        "gltfIndex": 3,
+        "jointsLength": 26
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dfe29": {
+      "importer": "gltf-embeded-image",
+      "uuid": "99ab05fe-0783-43d1-b87e-09c81e552f3d@dfe29",
+      "displayName": "",
+      "id": "dfe29",
+      "name": "file3.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "adacb": {
+      "importer": "gltf-embeded-image",
+      "uuid": "99ab05fe-0783-43d1-b87e-09c81e552f3d@adacb",
+      "displayName": "",
+      "id": "adacb",
+      "name": "file2.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a562b": {
+      "importer": "texture",
+      "uuid": "99ab05fe-0783-43d1-b87e-09c81e552f3d@a562b",
+      "displayName": "",
+      "id": "a562b",
+      "name": "file3.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "99ab05fe-0783-43d1-b87e-09c81e552f3d@dfe29"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e873a": {
+      "importer": "texture",
+      "uuid": "99ab05fe-0783-43d1-b87e-09c81e552f3d@e873a",
+      "displayName": "",
+      "id": "e873a",
+      "name": "file2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "99ab05fe-0783-43d1-b87e-09c81e552f3d@adacb"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a3e46": {
+      "importer": "gltf-material",
+      "uuid": "99ab05fe-0783-43d1-b87e-09c81e552f3d@a3e46",
+      "displayName": "",
+      "id": "a3e46",
+      "name": "dino_face_01.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d0350": {
+      "importer": "gltf-material",
+      "uuid": "99ab05fe-0783-43d1-b87e-09c81e552f3d@d0350",
+      "displayName": "",
+      "id": "d0350",
+      "name": "dino_00.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5b9c5": {
+      "importer": "gltf-scene",
+      "uuid": "99ab05fe-0783-43d1-b87e-09c81e552f3d@5b9c5",
+      "displayName": "",
+      "id": "5b9c5",
+      "name": "Dino_Spawn_Idle2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file3",
+        "uri": "99ab05fe-0783-43d1-b87e-09c81e552f3d@dfe29"
+      },
+      {
+        "name": "file2",
+        "uri": "99ab05fe-0783-43d1-b87e-09c81e552f3d@adacb"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.9583333134651184,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Take 001",
+            "from": 0,
+            "to": 0.9583333134651184,
+            "wrapMode": 0
+          },
+          {
+            "name": "Dino_Spawn_Idle2",
+            "from": 0,
+            "to": 0.9583333134651184,
+            "wrapMode": 22
+          }
+        ]
+      }
+    ],
+    "redirect": "99ab05fe-0783-43d1-b87e-09c81e552f3d@5b9c5",
+    "assetFinder": {
+      "meshes": [
+        "99ab05fe-0783-43d1-b87e-09c81e552f3d@11c00",
+        "99ab05fe-0783-43d1-b87e-09c81e552f3d@c21b3",
+        "99ab05fe-0783-43d1-b87e-09c81e552f3d@f5d04",
+        "99ab05fe-0783-43d1-b87e-09c81e552f3d@a8cb7"
+      ],
+      "skeletons": [
+        "99ab05fe-0783-43d1-b87e-09c81e552f3d@30732",
+        "99ab05fe-0783-43d1-b87e-09c81e552f3d@f1394",
+        "99ab05fe-0783-43d1-b87e-09c81e552f3d@75ee4",
+        "99ab05fe-0783-43d1-b87e-09c81e552f3d@a72ab"
+      ],
+      "textures": [
+        "99ab05fe-0783-43d1-b87e-09c81e552f3d@a562b",
+        "99ab05fe-0783-43d1-b87e-09c81e552f3d@e873a"
+      ],
+      "materials": [
+        "99ab05fe-0783-43d1-b87e-09c81e552f3d@a3e46",
+        "99ab05fe-0783-43d1-b87e-09c81e552f3d@d0350"
+      ],
+      "scenes": [
+        "99ab05fe-0783-43d1-b87e-09c81e552f3d@5b9c5"
+      ]
+    }
+  }
+}

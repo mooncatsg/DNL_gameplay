@@ -1,0 +1,58 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "fe66ba99-597f-443f-8ff2-f3088fac1639",
+  "files": [],
+  "subMetas": {
+    "a1a08": {
+      "importer": "gltf-mesh",
+      "uuid": "fe66ba99-597f-443f-8ff2-f3088fac1639@a1a08",
+      "displayName": "",
+      "id": "a1a08",
+      "name": "Lantern1LanternBridgeBevel_UVpSphere2.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6a957": {
+      "importer": "gltf-scene",
+      "uuid": "fe66ba99-597f-443f-8ff2-f3088fac1639@6a957",
+      "displayName": "",
+      "id": "6a957",
+      "name": "Lantern3.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "fe66ba99-597f-443f-8ff2-f3088fac1639@6a957",
+    "assetFinder": {
+      "meshes": [
+        "fe66ba99-597f-443f-8ff2-f3088fac1639@a1a08"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "fe66ba99-597f-443f-8ff2-f3088fac1639@6a957"
+      ]
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d0fa3ea6-990f-4c1d-b15f-d2a1e34c2f9c",
+  "files": [],
+  "subMetas": {
+    "2bc6c": {
+      "importer": "gltf-animation",
+      "uuid": "d0fa3ea6-990f-4c1d-b15f-d2a1e34c2f9c@2bc6c",
+      "displayName": "",
+      "id": "2bc6c",
+      "name": "Move.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 1.29,
+          "to": 2.2083332538604736
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4a36a": {
+      "importer": "gltf-scene",
+      "uuid": "d0fa3ea6-990f-4c1d-b15f-d2a1e34c2f9c@4a36a",
+      "displayName": "",
+      "id": "4a36a",
+      "name": "Anim_Batty@Move.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Anim_Batty@Move",
+        "duration": 2.2083332538604736,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Move",
+            "from": 1.29,
+            "to": 2.2083332538604736,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "d0fa3ea6-990f-4c1d-b15f-d2a1e34c2f9c@4a36a",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "d0fa3ea6-990f-4c1d-b15f-d2a1e34c2f9c@4a36a"
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "__version__": "1.0.1",
+  "script": {
+    "useDefineForClassFields": true
+  },
+  "general": {
+    "designResolution": {
+      "width": 1920,
+      "height": 1080,
+      "fitHeight": false
+    }
+  },
+  "layer": [
+    {
+      "name": "default",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0f87d624-10f3-4920-86fd-9d836df0e8da",
+  "files": [],
+  "subMetas": {
+    "73d50": {
+      "importer": "gltf-animation",
+      "uuid": "0f87d624-10f3-4920-86fd-9d836df0e8da@73d50",
+      "displayName": "",
+      "id": "73d50",
+      "name": "Die.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 0,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3.4583332538604736
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dec81": {
+      "importer": "gltf-scene",
+      "uuid": "0f87d624-10f3-4920-86fd-9d836df0e8da@dec81",
+      "displayName": "",
+      "id": "dec81",
+      "name": "Mystic_Death.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "mixamo.com",
+        "duration": 3.4583332538604736,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Die",
+            "from": 0,
+            "to": 3.4583332538604736,
+            "wrapMode": 0
+          }
+        ]
+      }
+    ],
+    "redirect": "0f87d624-10f3-4920-86fd-9d836df0e8da@dec81",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "0f87d624-10f3-4920-86fd-9d836df0e8da@dec81"
+      ]
+    }
+  }
+}

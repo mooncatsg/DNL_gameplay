@@ -1,0 +1,78 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "16409824-4383-434d-b9f2-1c1479097c76",
+  "files": [],
+  "subMetas": {
+    "47950": {
+      "importer": "gltf-animation",
+      "uuid": "16409824-4383-434d-b9f2-1c1479097c76@47950",
+      "displayName": "",
+      "id": "47950",
+      "name": "Dino_RunL.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 24.79166603088379
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6d673": {
+      "importer": "gltf-scene",
+      "uuid": "16409824-4383-434d-b9f2-1c1479097c76@6d673",
+      "displayName": "",
+      "id": "6d673",
+      "name": "Dino_RunL.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Dino_RunL",
+        "duration": 24.79166603088379,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Dino_RunL",
+            "from": 0,
+            "to": 24.79166603088379,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "16409824-4383-434d-b9f2-1c1479097c76@6d673",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "16409824-4383-434d-b9f2-1c1479097c76@6d673"
+      ]
+    }
+  }
+}

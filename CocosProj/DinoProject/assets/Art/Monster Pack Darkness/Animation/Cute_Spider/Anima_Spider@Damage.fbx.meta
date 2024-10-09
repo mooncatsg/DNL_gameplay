@@ -1,0 +1,78 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "35d57ea0-0c80-4c00-a877-33c1a80f0def",
+  "files": [],
+  "subMetas": {
+    "beef0": {
+      "importer": "gltf-animation",
+      "uuid": "35d57ea0-0c80-4c00-a877-33c1a80f0def@beef0",
+      "displayName": "",
+      "id": "beef0",
+      "name": "Damage.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3.2916667461395264
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2e50d": {
+      "importer": "gltf-scene",
+      "uuid": "35d57ea0-0c80-4c00-a877-33c1a80f0def@2e50d",
+      "displayName": "",
+      "id": "2e50d",
+      "name": "Anima_Spider@Damage.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Anima_Spider@Damage",
+        "duration": 3.2916667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Damage",
+            "from": 0,
+            "to": 3.2916667461395264,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "35d57ea0-0c80-4c00-a877-33c1a80f0def@2e50d",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "35d57ea0-0c80-4c00-a877-33c1a80f0def@2e50d"
+      ]
+    }
+  }
+}

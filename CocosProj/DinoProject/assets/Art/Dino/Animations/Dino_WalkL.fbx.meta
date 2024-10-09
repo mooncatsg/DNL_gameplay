@@ -1,0 +1,78 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e5d5d3c8-b836-4a79-bf06-89d840981a1f",
+  "files": [],
+  "subMetas": {
+    "29a48": {
+      "importer": "gltf-animation",
+      "uuid": "e5d5d3c8-b836-4a79-bf06-89d840981a1f@29a48",
+      "displayName": "",
+      "id": "29a48",
+      "name": "Dino_WalkL.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 23.41666603088379
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fe918": {
+      "importer": "gltf-scene",
+      "uuid": "e5d5d3c8-b836-4a79-bf06-89d840981a1f@fe918",
+      "displayName": "",
+      "id": "fe918",
+      "name": "Dino_WalkL.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Dino_WalkL",
+        "duration": 23.41666603088379,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Dino_WalkL",
+            "from": 0,
+            "to": 23.41666603088379,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "e5d5d3c8-b836-4a79-bf06-89d840981a1f@fe918",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "e5d5d3c8-b836-4a79-bf06-89d840981a1f@fe918"
+      ]
+    }
+  }
+}

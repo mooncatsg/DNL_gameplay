@@ -1,0 +1,78 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c725de99-f417-4f21-a80e-385eab94f186",
+  "files": [],
+  "subMetas": {
+    "beef0": {
+      "importer": "gltf-animation",
+      "uuid": "c725de99-f417-4f21-a80e-385eab94f186@beef0",
+      "displayName": "",
+      "id": "beef0",
+      "name": "Damage.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 9.041666984558105
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "29cf8": {
+      "importer": "gltf-scene",
+      "uuid": "c725de99-f417-4f21-a80e-385eab94f186@29cf8",
+      "displayName": "",
+      "id": "29cf8",
+      "name": "Anim_Lusif@Damage.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Anim_Lusif@Damage",
+        "duration": 9.041666984558105,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Damage",
+            "from": 0,
+            "to": 9.041666984558105,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "c725de99-f417-4f21-a80e-385eab94f186@29cf8",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "c725de99-f417-4f21-a80e-385eab94f186@29cf8"
+      ]
+    }
+  }
+}

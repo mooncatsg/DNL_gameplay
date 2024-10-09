@@ -1,0 +1,90 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3921c0cf-1acb-447e-828c-0cb58e7088b8",
+  "files": [],
+  "subMetas": {
+    "92993": {
+      "importer": "gltf-scene",
+      "uuid": "3921c0cf-1acb-447e-828c-0cb58e7088b8@92993",
+      "displayName": "",
+      "id": "92993",
+      "name": "Anima_Spider@Attack.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2cd1c": {
+      "importer": "gltf-animation",
+      "uuid": "3921c0cf-1acb-447e-828c-0cb58e7088b8@2cd1c",
+      "displayName": "",
+      "id": "2cd1c",
+      "name": "Attack.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 0,
+        "sample": 30,
+        "span": {
+          "from": 2.1,
+          "to": 2.566666666666667
+        },
+        "events": [
+          {
+            "frame": 0.4666666666666667,
+            "functionName": "",
+            "parameters": []
+          },
+          {
+            "frame": 0.4666666666666667,
+            "functionName": "onAttackEndListener",
+            "parameters": []
+          }
+        ],
+        "speed": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Anima_Spider@Attack",
+        "duration": 2.5833332538604736,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Attack",
+            "from": 2.1,
+            "to": 2.566666666666667,
+            "wrapMode": 0
+          }
+        ]
+      }
+    ],
+    "redirect": "3921c0cf-1acb-447e-828c-0cb58e7088b8@92993",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "3921c0cf-1acb-447e-828c-0cb58e7088b8@92993"
+      ]
+    }
+  }
+}

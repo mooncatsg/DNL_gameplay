@@ -1,0 +1,78 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "bed68fc6-e32e-414f-95b5-bd03d136d8dd",
+  "files": [],
+  "subMetas": {
+    "564dd": {
+      "importer": "gltf-animation",
+      "uuid": "bed68fc6-e32e-414f-95b5-bd03d136d8dd@564dd",
+      "displayName": "",
+      "id": "564dd",
+      "name": "Dino_Eat.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 5.958333492279053
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "56db8": {
+      "importer": "gltf-scene",
+      "uuid": "bed68fc6-e32e-414f-95b5-bd03d136d8dd@56db8",
+      "displayName": "",
+      "id": "56db8",
+      "name": "Dino_Eat.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Dino_Eat",
+        "duration": 5.958333492279053,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Dino_Eat",
+            "from": 0,
+            "to": 5.958333492279053,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "bed68fc6-e32e-414f-95b5-bd03d136d8dd@56db8",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "bed68fc6-e32e-414f-95b5-bd03d136d8dd@56db8"
+      ]
+    }
+  }
+}

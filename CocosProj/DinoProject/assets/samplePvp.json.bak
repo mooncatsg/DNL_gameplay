@@ -1,0 +1,891 @@
+{
+    "myTeam": [
+        {
+            "rarity": 3,
+            "statsHp": 200,
+            "statsAtk": 10,
+            "statsDef": 4,
+            "statsSpd": 5,
+            "nftId": 9871,
+            "skill": 0,
+            "decodeGenes": {
+                "Class": 1,
+                "Teeth": 8,
+                "Back": 8,
+                "Horn": 8,
+                "Texture": 0,
+                "Eye": 1,
+                "Wing": 7
+            },
+            "team": 1,
+            "position": 1,
+            "remainHp": 0,
+            "mana": 140,
+            "effect": "none",
+            "effectDuration": 0,
+            "effectAmount": 0,
+            "skills": null
+        },
+        {
+            "rarity": 1,
+            "statsHp": 170,
+            "statsAtk": 12,
+            "statsDef": 6,
+            "statsSpd": 6,
+            "nftId": 9640,
+            "skill": 0,
+            "decodeGenes": {
+                "Class": 2,
+                "Teeth": 4,
+                "Back": 5,
+                "Horn": 0,
+                "Texture": 0,
+                "Eye": 3,
+                "Wing": 1
+            },
+            "team": 1,
+            "position": 2,
+            "remainHp": 0,
+            "mana": 200,
+            "effect": "none",
+            "effectDuration": 0,
+            "effectAmount": 0,
+            "skills": null
+        },
+        {
+            "rarity": 2,
+            "statsHp": 200,
+            "statsAtk": 10,
+            "statsDef": 4,
+            "statsSpd": 5,
+            "nftId": 9658,
+            "skill": 0,
+            "decodeGenes": {
+                "Class": 1,
+                "Teeth": 1,
+                "Back": 6,
+                "Horn": 7,
+                "Texture": 9,
+                "Eye": 9,
+                "Wing": 7
+            },
+            "team": 1,
+            "position": 3,
+            "remainHp": 0,
+            "mana": 280,
+            "effect": "none",
+            "effectDuration": 0,
+            "effectAmount": 0,
+            "skills": null
+        },
+        {
+            "rarity": 3,
+            "statsHp": 200,
+            "statsAtk": 10,
+            "statsDef": 4,
+            "statsSpd": 5,
+            "nftId": 9654,
+            "skill": 0,
+            "decodeGenes": {
+                "Class": 1,
+                "Teeth": 9,
+                "Back": 9,
+                "Horn": 7,
+                "Texture": 0,
+                "Eye": 2,
+                "Wing": 6
+            },
+            "team": 1,
+            "position": 5,
+            "remainHp": 0,
+            "mana": 160,
+            "effect": "none",
+            "effectDuration": 0,
+            "effectAmount": 0,
+            "skills": null
+        }
+    ],
+    "enemyTeam": [
+        {
+            "skill": 25,
+            "skills": {
+                "id": 25,
+                "name": "",
+                "key": 25,
+                "type": "multiTarget",
+                "rarity": "mystic",
+                "effectAmount": 140,
+                "effectAmountType": 1,
+                "numberTarget": 4,
+                "sideEffect": "",
+                "duration": 0,
+                "chance": 0,
+                "note": "this is a skill",
+                "createdAt": "1655181002"
+            },
+            "nftId": 835421,
+            "skillId": 44,
+            "rarity": 3,
+            "statsHp": 200,
+            "statsAtk": 10,
+            "statsDef": 4,
+            "statsSpd": 5,
+            "team": 2,
+            "position": 2,
+            "remainHp": 0,
+            "mana": 20,
+            "effect": "none",
+            "effectDuration": 0,
+            "effectAmount": 0,
+            "decodeGenes": {
+                "Class": 1,
+                "Teeth": 1,
+                "Back": 6,
+                "Horn": 6,
+                "Texture": 5,
+                "Eye": 2,
+                "Wing": 2
+            }
+        },
+        {
+            "skill": 36,
+            "skills": {
+                "id": 36,
+                "name": "",
+                "key": 36,
+                "type": "multiTarget",
+                "rarity": "common",
+                "effectAmount": 110,
+                "effectAmountType": 1,
+                "numberTarget": 2,
+                "sideEffect": "stun",
+                "duration": 1,
+                "chance": 100,
+                "note": "this is a skill",
+                "createdAt": "1655181002"
+            },
+            "nftId": 570590,
+            "skillId": 44,
+            "rarity": 4,
+            "statsHp": 200,
+            "statsAtk": 10,
+            "statsDef": 4,
+            "statsSpd": 5,
+            "team": 2,
+            "position": 5,
+            "remainHp": 49,
+            "mana": 120,
+            "effect": "none",
+            "effectDuration": 0,
+            "effectAmount": 0,
+            "decodeGenes": {
+                "Class": 2,
+                "Teeth": 7,
+                "Back": 3,
+                "Horn": 7,
+                "Texture": 4,
+                "Eye": 3,
+                "Wing": 4
+            }
+        },
+        {
+            "skill": 24,
+            "skills": {
+                "id": 24,
+                "name": "",
+                "key": 24,
+                "type": "multiTarget",
+                "rarity": "legend",
+                "effectAmount": 135,
+                "effectAmountType": 1,
+                "numberTarget": 4,
+                "sideEffect": "",
+                "duration": 0,
+                "chance": 0,
+                "note": "this is a skill",
+                "createdAt": "1655181002"
+            },
+            "nftId": 802845,
+            "skillId": 37,
+            "rarity": 1,
+            "statsHp": 200,
+            "statsAtk": 10,
+            "statsDef": 4,
+            "statsSpd": 5,
+            "team": 2,
+            "position": 6,
+            "remainHp": 200,
+            "mana": 40,
+            "effect": "none",
+            "effectDuration": 0,
+            "effectAmount": 0,
+            "decodeGenes": {
+                "Class": 2,
+                "Teeth": 3,
+                "Back": 4,
+                "Horn": 7,
+                "Texture": 3,
+                "Eye": 5,
+                "Wing": 8
+            }
+        },
+        {
+            "skill": 29,
+            "skills": {
+                "id": 29,
+                "name": "",
+                "key": 29,
+                "type": "multiTarget",
+                "rarity": "legend",
+                "effectAmount": 145,
+                "effectAmountType": 1,
+                "numberTarget": 2,
+                "sideEffect": "random",
+                "duration": 0,
+                "chance": 0,
+                "note": "this is a skill",
+                "createdAt": "1655181002"
+            },
+            "nftId": 948564,
+            "skillId": 31,
+            "rarity": 3,
+            "statsHp": 200,
+            "statsAtk": 10,
+            "statsDef": 4,
+            "statsSpd": 5,
+            "team": 2,
+            "position": 8,
+            "remainHp": 200,
+            "mana": 40,
+            "effect": "none",
+            "effectDuration": 0,
+            "effectAmount": 0,
+            "decodeGenes": {
+                "Class": 1,
+                "Teeth": 5,
+                "Back": 8,
+                "Horn": 5,
+                "Texture": 0,
+                "Eye": 0,
+                "Wing": 3
+            }
+        }
+    ],
+    "totalTurn": 30,
+    "fightDetails": [
+        {
+            "team": 1,
+            "isCrit": false,
+            "strikeType": 0,
+            "striker": {
+                "nftId": 9640,
+                "position": 2,
+                "mana": 40
+            },
+            "targets": [
+                {
+                    "nftId": 835421,
+                    "position": 2,
+                    "hp": 200,
+                    "damage": 35,
+                    "remainHp": 165,
+                    "mana": 20
+                }
+            ]
+        },
+        {
+            "team": 1,
+            "isCrit": false,
+            "strikeType": 0,
+            "striker": {
+                "nftId": 9658,
+                "position": 3,
+                "mana": 40
+            },
+            "targets": [
+                {
+                    "nftId": 835421,
+                    "position": 2,
+                    "hp": 200,
+                    "damage": 29,
+                    "remainHp": 136,
+                    "mana": 40
+                }
+            ]
+        },
+        {
+            "team": 2,
+            "isCrit": true,
+            "strikeType": 0,
+            "striker": {
+                "nftId": 835421,
+                "position": 2,
+                "mana": 80
+            },
+            "targets": [
+                {
+                    "nftId": 9871,
+                    "position": 1,
+                    "hp": 200,
+                    "damage": 58,
+                    "remainHp": 142,
+                    "mana": 20
+                }
+            ]
+        },
+        {
+            "team": 2,
+            "isCrit": false,
+            "strikeType": 0,
+            "striker": {
+                "nftId": 948564,
+                "position": 8,
+                "mana": 40
+            },
+            "targets": [
+                {
+                    "nftId": 9871,
+                    "position": 1,
+                    "hp": 200,
+                    "damage": 29,
+                    "remainHp": 113,
+                    "mana": 40
+                }
+            ]
+        },
+        {
+            "team": 2,
+            "isCrit": true,
+            "strikeType": 0,
+            "striker": {
+                "nftId": 570590,
+                "position": 5,
+                "mana": 40
+            },
+            "targets": [
+                {
+                    "nftId": 9871,
+                    "position": 1,
+                    "hp": 200,
+                    "damage": 58,
+                    "remainHp": 55,
+                    "mana": 60
+                }
+            ]
+        },
+        {
+            "team": 1,
+            "isCrit": false,
+            "strikeType": 0,
+            "striker": {
+                "nftId": 9871,
+                "position": 1,
+                "mana": 100
+            },
+            "targets": [
+                {
+                    "nftId": 835421,
+                    "position": 2,
+                    "hp": 200,
+                    "damage": 29,
+                    "remainHp": 107,
+                    "mana": 100
+                }
+            ]
+        },
+        {
+            "team": 2,
+            "isCrit": false,
+            "strikeType": 0,
+            "striker": {
+                "nftId": 802845,
+                "position": 6,
+                "mana": 40
+            },
+            "targets": [
+                {
+                    "nftId": 9871,
+                    "position": 1,
+                    "hp": 200,
+                    "damage": 29,
+                    "remainHp": 26,
+                    "mana": 120
+                }
+            ]
+        },
+        {
+            "team": 1,
+            "isCrit": false,
+            "strikeType": 0,
+            "striker": {
+                "nftId": 9654,
+                "position": 5,
+                "mana": 40
+            },
+            "targets": [
+                {
+                    "nftId": 835421,
+                    "position": 2,
+                    "hp": 200,
+                    "damage": 29,
+                    "remainHp": 78,
+                    "mana": 120
+                }
+            ]
+        },
+        {
+            "team": 1,
+            "isCrit": false,
+            "strikeType": 0,
+            "striker": {
+                "nftId": 9640,
+                "position": 2,
+                "mana": 80
+            },
+            "targets": [
+                {
+                    "nftId": 835421,
+                    "position": 2,
+                    "hp": 200,
+                    "damage": 35,
+                    "remainHp": 43,
+                    "mana": 140
+                }
+            ]
+        },
+        {
+            "team": 1,
+            "isCrit": false,
+            "strikeType": 0,
+            "striker": {
+                "nftId": 9658,
+                "position": 3,
+                "mana": 80
+            },
+            "targets": [
+                {
+                    "nftId": 835421,
+                    "position": 2,
+                    "hp": 200,
+                    "damage": 29,
+                    "remainHp": 14,
+                    "mana": 160
+                }
+            ]
+        },
+        {
+            "team": 2,
+            "isCrit": true,
+            "strikeType": 0,
+            "striker": {
+                "nftId": 835421,
+                "position": 2,
+                "mana": 0
+            },
+            "targets": [
+                {
+                    "nftId": 9871,
+                    "position": 1,
+                    "hp": 200,
+                    "damage": 26,
+                    "remainHp": 0,
+                    "mana": 140
+                },
+                {
+                    "nftId": 9640,
+                    "position": 2,
+                    "hp": 170,
+                    "damage": 26,
+                    "remainHp": 144,
+                    "mana": 80
+                },
+                {
+                    "nftId": 9658,
+                    "position": 3,
+                    "hp": 200,
+                    "damage": 26,
+                    "remainHp": 174,
+                    "mana": 80
+                },
+                {
+                    "nftId": 9654,
+                    "position": 5,
+                    "hp": 200,
+                    "damage": 26,
+                    "remainHp": 174,
+                    "mana": 40
+                }
+            ]
+        },
+        {
+            "team": 2,
+            "isCrit": false,
+            "strikeType": 0,
+            "striker": {
+                "nftId": 948564,
+                "position": 8,
+                "mana": 80
+            },
+            "targets": [
+                {
+                    "nftId": 9640,
+                    "position": 2,
+                    "hp": 170,
+                    "damage": 29,
+                    "remainHp": 115,
+                    "mana": 100
+                }
+            ]
+        },
+        {
+            "team": 2,
+            "isCrit": false,
+            "strikeType": 0,
+            "striker": {
+                "nftId": 570590,
+                "position": 5,
+                "mana": 80
+            },
+            "targets": [
+                {
+                    "nftId": 9640,
+                    "position": 2,
+                    "hp": 170,
+                    "damage": 29,
+                    "remainHp": 86,
+                    "mana": 120
+                }
+            ]
+        },
+        {
+            "team": 2,
+            "isCrit": true,
+            "strikeType": 0,
+            "striker": {
+                "nftId": 802845,
+                "position": 6,
+                "mana": 80
+            },
+            "targets": [
+                {
+                    "nftId": 9640,
+                    "position": 2,
+                    "hp": 170,
+                    "damage": 58,
+                    "remainHp": 28,
+                    "mana": 140
+                }
+            ]
+        },
+        {
+            "team": 1,
+            "isCrit": false,
+            "strikeType": 0,
+            "striker": {
+                "nftId": 9654,
+                "position": 5,
+                "mana": 80
+            },
+            "targets": [
+                {
+                    "nftId": 835421,
+                    "position": 2,
+                    "hp": 200,
+                    "damage": 14,
+                    "remainHp": 0,
+                    "mana": 20
+                }
+            ]
+        },
+        {
+            "team": 1,
+            "isCrit": false,
+            "strikeType": 0,
+            "striker": {
+                "nftId": 9640,
+                "position": 2,
+                "mana": 180
+            },
+            "targets": [
+                {
+                    "nftId": 570590,
+                    "position": 5,
+                    "hp": 200,
+                    "damage": 35,
+                    "remainHp": 165,
+                    "mana": 100
+                }
+            ]
+        },
+        {
+            "team": 1,
+            "isCrit": false,
+            "strikeType": 0,
+            "striker": {
+                "nftId": 9658,
+                "position": 3,
+                "mana": 120
+            },
+            "targets": [
+                {
+                    "nftId": 570590,
+                    "position": 5,
+                    "hp": 200,
+                    "damage": 29,
+                    "remainHp": 136,
+                    "mana": 120
+                }
+            ]
+        },
+        {
+            "team": 2,
+            "isCrit": true,
+            "strikeType": 29,
+            "striker": {
+                "nftId": 948564,
+                "position": 8,
+                "mana": 120
+            },
+            "targets": [
+                {
+                    "nftId": 9640,
+                    "position": 2,
+                    "hp": 170,
+                    "damage": 28,
+                    "remainHp": 0,
+                    "mana": 200
+                }
+            ]
+        },
+        {
+            "team": 2,
+            "isCrit": false,
+            "strikeType": 0,
+            "striker": {
+                "nftId": 570590,
+                "position": 5,
+                "mana": 0
+            },
+            "targets": [
+                {
+                    "nftId": 9658,
+                    "position": 3,
+                    "hp": 200,
+                    "damage": 32,
+                    "remainHp": 142,
+                    "mana": 140
+                },
+                {
+                    "nftId": 9654,
+                    "position": 5,
+                    "hp": 200,
+                    "damage": 32,
+                    "remainHp": 142,
+                    "mana": 80
+                }
+            ]
+        },
+        {
+            "team": 2,
+            "isCrit": false,
+            "strikeType": 24,
+            "striker": {
+                "nftId": 802845,
+                "position": 6,
+                "mana": 120
+            },
+            "targets": [
+                {
+                    "nftId": 9658,
+                    "position": 3,
+                    "hp": 200,
+                    "damage": 29,
+                    "remainHp": 113,
+                    "mana": 160
+                }
+            ]
+        },
+        {
+            "team": 2,
+            "isCrit": false,
+            "strikeType": 0,
+            "striker": {
+                "nftId": 948564,
+                "position": 8,
+                "mana": 0
+            },
+            "targets": [
+                {
+                    "nftId": 9658,
+                    "position": 3,
+                    "hp": 200,
+                    "damage": 43,
+                    "remainHp": 70,
+                    "mana": 180
+                },
+                {
+                    "nftId": 9654,
+                    "position": 5,
+                    "hp": 200,
+                    "damage": 43,
+                    "remainHp": 99,
+                    "mana": 80
+                }
+            ]
+        },
+        {
+            "team": 2,
+            "isCrit": false,
+            "strikeType": 0,
+            "striker": {
+                "nftId": 570590,
+                "position": 5,
+                "mana": 40
+            },
+            "targets": [
+                {
+                    "nftId": 9658,
+                    "position": 3,
+                    "hp": 200,
+                    "damage": 29,
+                    "remainHp": 41,
+                    "mana": 200
+                }
+            ]
+        },
+        {
+            "team": 2,
+            "isCrit": false,
+            "strikeType": 0,
+            "striker": {
+                "nftId": 802845,
+                "position": 6,
+                "mana": 0
+            },
+            "targets": [
+                {
+                    "nftId": 9658,
+                    "position": 3,
+                    "hp": 200,
+                    "damage": 40,
+                    "remainHp": 1,
+                    "mana": 220
+                },
+                {
+                    "nftId": 9654,
+                    "position": 5,
+                    "hp": 200,
+                    "damage": 40,
+                    "remainHp": 59,
+                    "mana": 80
+                }
+            ]
+        },
+        {
+            "team": 1,
+            "isCrit": true,
+            "strikeType": 0,
+            "striker": {
+                "nftId": 9654,
+                "position": 5,
+                "mana": 120
+            },
+            "targets": [
+                {
+                    "nftId": 570590,
+                    "position": 5,
+                    "hp": 200,
+                    "damage": 58,
+                    "remainHp": 78,
+                    "mana": 60
+                }
+            ]
+        },
+        {
+            "team": 1,
+            "isCrit": false,
+            "strikeType": 0,
+            "striker": {
+                "nftId": 9658,
+                "position": 3,
+                "mana": 260
+            },
+            "targets": [
+                {
+                    "nftId": 570590,
+                    "position": 5,
+                    "hp": 200,
+                    "damage": 29,
+                    "remainHp": 49,
+                    "mana": 80
+                }
+            ]
+        },
+        {
+            "team": 2,
+            "isCrit": false,
+            "strikeType": 0,
+            "striker": {
+                "nftId": 948564,
+                "position": 8,
+                "mana": 40
+            },
+            "targets": [
+                {
+                    "nftId": 9658,
+                    "position": 3,
+                    "hp": 200,
+                    "damage": 1,
+                    "remainHp": 0,
+                    "mana": 280
+                }
+            ]
+        },
+        {
+            "team": 2,
+            "isCrit": false,
+            "strikeType": 36,
+            "striker": {
+                "nftId": 570590,
+                "position": 5,
+                "mana": 120
+            },
+            "targets": [
+                {
+                    "nftId": 9654,
+                    "position": 5,
+                    "hp": 200,
+                    "damage": 29,
+                    "remainHp": 30,
+                    "mana": 140
+                }
+            ]
+        },
+        {
+            "team": 2,
+            "isCrit": true,
+            "strikeType": 0,
+            "striker": {
+                "nftId": 802845,
+                "position": 6,
+                "mana": 40
+            },
+            "targets": [
+                {
+                    "nftId": 9654,
+                    "position": 5,
+                    "hp": 200,
+                    "damage": 30,
+                    "remainHp": 0,
+                    "mana": 160
+                }
+            ]
+        }
+    ],
+    "result": "lose",
+    "battleId": "OS9V9LV9B39",
+    "matchId": 32,
+    "reward": 0,
+    "rewardType": 1
+}
+

@@ -1,0 +1,15 @@
+{
+  "__version__": "1.2.8",
+  "splash-setting": {
+    "url": "project://assets/loading.gif",
+    "displayRatio": 0.1,
+    "totalTime": 2000,
+    "clearColor": {
+      "x": 0.8784313725490196,
+      "y": 0.8784313725490196,
+      "z": 0.8784313725490196,
+      "w": 0
+    },
+    "displayWatermark": false
+  }
+}

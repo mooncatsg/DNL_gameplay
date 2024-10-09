@@ -1,0 +1,78 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "86fbd55f-c51f-48b2-b140-4a86c6e5b055",
+  "files": [],
+  "subMetas": {
+    "87c56": {
+      "importer": "gltf-animation",
+      "uuid": "86fbd55f-c51f-48b2-b140-4a86c6e5b055@87c56",
+      "displayName": "",
+      "id": "87c56",
+      "name": "Dino_Stun.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 9.291666984558105
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "389cc": {
+      "importer": "gltf-scene",
+      "uuid": "86fbd55f-c51f-48b2-b140-4a86c6e5b055@389cc",
+      "displayName": "",
+      "id": "389cc",
+      "name": "Dino_Stun.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Dino_Stun",
+        "duration": 9.291666984558105,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Dino_Stun",
+            "from": 0,
+            "to": 9.291666984558105,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "86fbd55f-c51f-48b2-b140-4a86c6e5b055@389cc",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "86fbd55f-c51f-48b2-b140-4a86c6e5b055@389cc"
+      ]
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "91f1af32-98f2-43ee-adc6-5a0f0752d556",
+  "files": [],
+  "subMetas": {
+    "73d50": {
+      "importer": "gltf-animation",
+      "uuid": "91f1af32-98f2-43ee-adc6-5a0f0752d556@73d50",
+      "displayName": "",
+      "id": "73d50",
+      "name": "Die.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 7.041666507720947
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fc8a0": {
+      "importer": "gltf-scene",
+      "uuid": "91f1af32-98f2-43ee-adc6-5a0f0752d556@fc8a0",
+      "displayName": "",
+      "id": "fc8a0",
+      "name": "Anim_Whispa@Die.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Anim_Whispa@Die",
+        "duration": 7.041666507720947,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Die",
+            "from": 0,
+            "to": 7.041666507720947,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "91f1af32-98f2-43ee-adc6-5a0f0752d556@fc8a0",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "91f1af32-98f2-43ee-adc6-5a0f0752d556@fc8a0"
+      ]
+    }
+  }
+}

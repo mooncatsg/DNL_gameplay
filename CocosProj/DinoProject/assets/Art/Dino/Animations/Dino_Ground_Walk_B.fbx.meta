@@ -1,0 +1,78 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "6942b35d-52a9-470b-bbb1-06f1440f47fb",
+  "files": [],
+  "subMetas": {
+    "b6fbe": {
+      "importer": "gltf-animation",
+      "uuid": "6942b35d-52a9-470b-bbb1-06f1440f47fb@b6fbe",
+      "displayName": "",
+      "id": "b6fbe",
+      "name": "Dino_Ground_Walk_B.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4.458333492279053
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c6aac": {
+      "importer": "gltf-scene",
+      "uuid": "6942b35d-52a9-470b-bbb1-06f1440f47fb@c6aac",
+      "displayName": "",
+      "id": "c6aac",
+      "name": "Dino_Ground_Walk_B.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Dino_Ground_Walk_B",
+        "duration": 4.458333492279053,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Dino_Ground_Walk_B",
+            "from": 0,
+            "to": 4.458333492279053,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "6942b35d-52a9-470b-bbb1-06f1440f47fb@c6aac",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "6942b35d-52a9-470b-bbb1-06f1440f47fb@c6aac"
+      ]
+    }
+  }
+}

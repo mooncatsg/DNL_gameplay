@@ -1,0 +1,58 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a8586bfd-8314-46b3-9c41-d74ab18606b6",
+  "files": [],
+  "subMetas": {
+    "b9f2e": {
+      "importer": "gltf-mesh",
+      "uuid": "a8586bfd-8314-46b3-9c41-d74ab18606b6@b9f2e",
+      "displayName": "",
+      "id": "b9f2e",
+      "name": "MapPvP.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5606e": {
+      "importer": "gltf-scene",
+      "uuid": "a8586bfd-8314-46b3-9c41-d74ab18606b6@5606e",
+      "displayName": "",
+      "id": "5606e",
+      "name": "PvPMap_Egypt.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "a8586bfd-8314-46b3-9c41-d74ab18606b6@5606e",
+    "assetFinder": {
+      "meshes": [
+        "a8586bfd-8314-46b3-9c41-d74ab18606b6@b9f2e"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "a8586bfd-8314-46b3-9c41-d74ab18606b6@5606e"
+      ]
+    }
+  }
+}

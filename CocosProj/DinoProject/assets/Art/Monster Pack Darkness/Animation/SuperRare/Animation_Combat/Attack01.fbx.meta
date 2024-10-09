@@ -1,0 +1,174 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ce7467a0-ecb9-485c-b861-df95e08d2c6f",
+  "files": [],
+  "subMetas": {
+    "b21bf": {
+      "importer": "gltf-mesh",
+      "uuid": "ce7467a0-ecb9-485c-b861-df95e08d2c6f@b21bf",
+      "displayName": "",
+      "id": "b21bf",
+      "name": "Bunny.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "aa778": {
+      "importer": "gltf-mesh",
+      "uuid": "ce7467a0-ecb9-485c-b861-df95e08d2c6f@aa778",
+      "displayName": "",
+      "id": "aa778",
+      "name": "Machine.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6ec0a": {
+      "importer": "gltf-animation",
+      "uuid": "ce7467a0-ecb9-485c-b861-df95e08d2c6f@6ec0a",
+      "displayName": "",
+      "id": "6ec0a",
+      "name": "Attack_1.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 0,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.9583333134651184
+        },
+        "events": [
+          {
+            "frame": 0.4666666666666667,
+            "functionName": "",
+            "parameters": []
+          },
+          {
+            "frame": 0.4666666666666667,
+            "functionName": "onMakeDamageInAttack1",
+            "parameters": []
+          },
+          {
+            "frame": 0.9666666666666667,
+            "functionName": "",
+            "parameters": []
+          },
+          {
+            "frame": 0.9666666666666667,
+            "functionName": "onAttackEndListener",
+            "parameters": []
+          }
+        ],
+        "speed": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "ce7467a0-ecb9-485c-b861-df95e08d2c6f@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 21
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9184c": {
+      "importer": "gltf-material",
+      "uuid": "ce7467a0-ecb9-485c-b861-df95e08d2c6f@9184c",
+      "displayName": "",
+      "id": "9184c",
+      "name": "SuperRare_mat.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e9ff9": {
+      "importer": "gltf-scene",
+      "uuid": "ce7467a0-ecb9-485c-b861-df95e08d2c6f@e9ff9",
+      "displayName": "",
+      "id": "e9ff9",
+      "name": "Attack01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.9583333134651184,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Attack_1",
+            "from": 0,
+            "to": 0.9583333134651184,
+            "wrapMode": 0
+          }
+        ]
+      }
+    ],
+    "redirect": "ce7467a0-ecb9-485c-b861-df95e08d2c6f@e9ff9",
+    "assetFinder": {
+      "meshes": [
+        "ce7467a0-ecb9-485c-b861-df95e08d2c6f@b21bf",
+        "ce7467a0-ecb9-485c-b861-df95e08d2c6f@aa778"
+      ],
+      "skeletons": [
+        "ce7467a0-ecb9-485c-b861-df95e08d2c6f@438fe"
+      ],
+      "textures": [],
+      "materials": [
+        "ce7467a0-ecb9-485c-b861-df95e08d2c6f@9184c"
+      ],
+      "scenes": [
+        "ce7467a0-ecb9-485c-b861-df95e08d2c6f@e9ff9"
+      ]
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b3bd6805-c2c0-4794-b201-fcf31f6c17fe",
+  "files": [],
+  "subMetas": {
+    "2bc6c": {
+      "importer": "gltf-animation",
+      "uuid": "b3bd6805-c2c0-4794-b201-fcf31f6c17fe@2bc6c",
+      "displayName": "",
+      "id": "2bc6c",
+      "name": "Move.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 1.3,
+          "to": 1.8333333333333333
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a6891": {
+      "importer": "gltf-scene",
+      "uuid": "b3bd6805-c2c0-4794-b201-fcf31f6c17fe@a6891",
+      "displayName": "",
+      "id": "a6891",
+      "name": "Anima_Spider@Move.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Anima_Spider@Move",
+        "duration": 1.8333333730697632,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Move",
+            "from": 1.3,
+            "to": 1.8333333333333333,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "b3bd6805-c2c0-4794-b201-fcf31f6c17fe@a6891",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "b3bd6805-c2c0-4794-b201-fcf31f6c17fe@a6891"
+      ]
+    }
+  }
+}

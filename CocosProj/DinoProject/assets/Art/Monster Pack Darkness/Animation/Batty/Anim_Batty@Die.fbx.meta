@@ -1,0 +1,78 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "50b8a1a4-ea74-41ba-b817-d802c3090263",
+  "files": [],
+  "subMetas": {
+    "73d50": {
+      "importer": "gltf-animation",
+      "uuid": "50b8a1a4-ea74-41ba-b817-d802c3090263@73d50",
+      "displayName": "",
+      "id": "73d50",
+      "name": "Die.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 0,
+        "sample": 30,
+        "span": {
+          "from": 4.23,
+          "to": 5.04
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0cd66": {
+      "importer": "gltf-scene",
+      "uuid": "50b8a1a4-ea74-41ba-b817-d802c3090263@0cd66",
+      "displayName": "",
+      "id": "0cd66",
+      "name": "Anim_Batty@Die.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Anim_Batty@Die",
+        "duration": 5.166666507720947,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Die",
+            "from": 4.23,
+            "to": 5.04,
+            "wrapMode": 0
+          }
+        ]
+      }
+    ],
+    "redirect": "50b8a1a4-ea74-41ba-b817-d802c3090263@0cd66",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "50b8a1a4-ea74-41ba-b817-d802c3090263@0cd66"
+      ]
+    }
+  }
+}

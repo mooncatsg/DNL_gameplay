@@ -1,0 +1,171 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3822c9f8-a735-4a0e-9b6e-0ef0f8a275fc",
+  "files": [],
+  "subMetas": {
+    "4cfa4": {
+      "importer": "gltf-mesh",
+      "uuid": "3822c9f8-a735-4a0e-9b6e-0ef0f8a275fc@4cfa4",
+      "displayName": "",
+      "id": "4cfa4",
+      "name": "Normal.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2bc6c": {
+      "importer": "gltf-animation",
+      "uuid": "3822c9f8-a735-4a0e-9b6e-0ef0f8a275fc@2bc6c",
+      "displayName": "",
+      "id": "2bc6c",
+      "name": "Move.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4.625
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "18d6f": {
+      "importer": "gltf-animation",
+      "uuid": "3822c9f8-a735-4a0e-9b6e-0ef0f8a275fc@18d6f",
+      "displayName": "",
+      "id": "18d6f",
+      "name": "mixamo.com.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.1666667461395264
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "3822c9f8-a735-4a0e-9b6e-0ef0f8a275fc@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 22
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "18dd4": {
+      "importer": "gltf-material",
+      "uuid": "3822c9f8-a735-4a0e-9b6e-0ef0f8a275fc@18dd4",
+      "displayName": "",
+      "id": "18dd4",
+      "name": "Normal_mat.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8cf19": {
+      "importer": "gltf-scene",
+      "uuid": "3822c9f8-a735-4a0e-9b6e-0ef0f8a275fc@8cf19",
+      "displayName": "",
+      "id": "8cf19",
+      "name": "Jump.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 4.625,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Move",
+            "from": 0,
+            "to": 4.625,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "mixamo.com",
+        "duration": 2.1666667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "mixamo.com",
+            "from": 0,
+            "to": 2.1666667461395264,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "3822c9f8-a735-4a0e-9b6e-0ef0f8a275fc@8cf19",
+    "assetFinder": {
+      "meshes": [
+        "3822c9f8-a735-4a0e-9b6e-0ef0f8a275fc@4cfa4"
+      ],
+      "skeletons": [
+        "3822c9f8-a735-4a0e-9b6e-0ef0f8a275fc@438fe"
+      ],
+      "textures": [],
+      "materials": [
+        "3822c9f8-a735-4a0e-9b6e-0ef0f8a275fc@18dd4"
+      ],
+      "scenes": [
+        "3822c9f8-a735-4a0e-9b6e-0ef0f8a275fc@8cf19"
+      ]
+    }
+  }
+}

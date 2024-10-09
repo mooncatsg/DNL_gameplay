@@ -1,0 +1,76 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0d845d82-66e8-4646-b969-7a507757164f",
+  "files": [],
+  "subMetas": {
+    "ea796": {
+      "importer": "gltf-mesh",
+      "uuid": "0d845d82-66e8-4646-b969-7a507757164f@ea796",
+      "displayName": "",
+      "id": "ea796",
+      "name": "group29Bevel_UVFinal_ChiaUVpPlane1.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "47f6b": {
+      "importer": "gltf-mesh",
+      "uuid": "0d845d82-66e8-4646-b969-7a507757164f@47f6b",
+      "displayName": "",
+      "id": "47f6b",
+      "name": "polySurface135pCylinder2CongTraigroup25Bevel_UV.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "81d4b": {
+      "importer": "gltf-scene",
+      "uuid": "0d845d82-66e8-4646-b969-7a507757164f@81d4b",
+      "displayName": "",
+      "id": "81d4b",
+      "name": "MapTong.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "0d845d82-66e8-4646-b969-7a507757164f@81d4b",
+    "assetFinder": {
+      "meshes": [
+        "0d845d82-66e8-4646-b969-7a507757164f@ea796",
+        "0d845d82-66e8-4646-b969-7a507757164f@47f6b"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "0d845d82-66e8-4646-b969-7a507757164f@81d4b"
+      ]
+    }
+  }
+}

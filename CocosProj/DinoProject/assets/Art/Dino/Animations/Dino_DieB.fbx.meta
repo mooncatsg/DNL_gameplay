@@ -1,0 +1,78 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a5033013-8d81-4c69-a042-9f65cf09ec48",
+  "files": [],
+  "subMetas": {
+    "5d2e4": {
+      "importer": "gltf-animation",
+      "uuid": "a5033013-8d81-4c69-a042-9f65cf09ec48@5d2e4",
+      "displayName": "",
+      "id": "5d2e4",
+      "name": "Dino_DieB.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 13.958333015441895
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fa4b4": {
+      "importer": "gltf-scene",
+      "uuid": "a5033013-8d81-4c69-a042-9f65cf09ec48@fa4b4",
+      "displayName": "",
+      "id": "fa4b4",
+      "name": "Dino_DieB.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Dino_DieB",
+        "duration": 13.958333015441895,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Dino_DieB",
+            "from": 0,
+            "to": 13.958333015441895,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "a5033013-8d81-4c69-a042-9f65cf09ec48@fa4b4",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "a5033013-8d81-4c69-a042-9f65cf09ec48@fa4b4"
+      ]
+    }
+  }
+}

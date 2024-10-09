@@ -1,0 +1,78 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a31d9282-def5-431f-81ba-e5952edf025a",
+  "files": [],
+  "subMetas": {
+    "54441": {
+      "importer": "gltf-scene",
+      "uuid": "a31d9282-def5-431f-81ba-e5952edf025a@54441",
+      "displayName": "",
+      "id": "54441",
+      "name": "Anim_Batty@Damage.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "beef0": {
+      "importer": "gltf-animation",
+      "uuid": "a31d9282-def5-431f-81ba-e5952edf025a@beef0",
+      "displayName": "",
+      "id": "beef0",
+      "name": "Damage.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3.9166667461395264
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Anim_Batty@Damage",
+        "duration": 3.9166667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Damage",
+            "from": 0,
+            "to": 3.9166667461395264,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "a31d9282-def5-431f-81ba-e5952edf025a@54441",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "a31d9282-def5-431f-81ba-e5952edf025a@54441"
+      ]
+    }
+  }
+}

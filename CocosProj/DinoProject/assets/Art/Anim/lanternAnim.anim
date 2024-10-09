@@ -1,0 +1,192 @@
+[
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "lanternAnim",
+    "_objFlags": 0,
+    "_native": "",
+    "sample": 60,
+    "speed": 1,
+    "wrapMode": 2,
+    "events": [],
+    "enableTrsBlending": false,
+    "_duration": 8,
+    "_keys": [
+      [
+        0
+      ],
+      [
+        0,
+        2,
+        4,
+        6,
+        8
+      ],
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    ],
+    "_stepness": 0,
+    "_curves": [
+      {
+        "modifiers": [
+          "eulerAngles"
+        ],
+        "data": {
+          "keys": 0,
+          "values": [
+            {
+              "__type__": "cc.Vec3",
+              "x": 0,
+              "y": 0,
+              "z": 0
+            }
+          ],
+          "easingMethods": {}
+        }
+      },
+      {
+        "modifiers": [
+          {
+            "__id__": 1
+          },
+          "eulerAngles"
+        ],
+        "data": {
+          "keys": 1,
+          "values": [
+            {
+              "__type__": "cc.Vec3",
+              "x": 0,
+              "y": 0,
+              "z": 13.183
+            },
+            {
+              "__type__": "cc.Vec3",
+              "x": 0,
+              "y": 0,
+              "z": -5.723
+            },
+            {
+              "__type__": "cc.Vec3",
+              "x": 0,
+              "y": 0,
+              "z": 13.183
+            },
+            {
+              "__type__": "cc.Vec3",
+              "x": 0,
+              "y": 0,
+              "z": -5.723
+            },
+            {
+              "__type__": "cc.Vec3",
+              "x": 0,
+              "y": 0,
+              "z": 13.183
+            }
+          ],
+          "easingMethods": {
+            "0": "quadInOut",
+            "1": "quadInOut",
+            "2": "quadInOut",
+            "3": "quadInOut"
+          }
+        }
+      },
+      {
+        "modifiers": [
+          {
+            "__id__": 2
+          },
+          "position"
+        ],
+        "data": {
+          "keys": 2,
+          "values": [
+            {
+              "__type__": "cc.Vec3",
+              "x": 0,
+              "y": 0.05,
+              "z": 0
+            },
+            {
+              "__type__": "cc.Vec3",
+              "x": 0,
+              "y": -0.02,
+              "z": 0
+            },
+            {
+              "__type__": "cc.Vec3",
+              "x": 0,
+              "y": 0.04,
+              "z": 0
+            },
+            {
+              "__type__": "cc.Vec3",
+              "x": 0,
+              "y": 0.04,
+              "z": 0
+            },
+            {
+              "__type__": "cc.Vec3",
+              "x": 0,
+              "y": 0.05,
+              "z": 0
+            },
+            {
+              "__type__": "cc.Vec3",
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            {
+              "__type__": "cc.Vec3",
+              "x": 0,
+              "y": 0.03,
+              "z": 0
+            },
+            {
+              "__type__": "cc.Vec3",
+              "x": 0,
+              "y": -0.04,
+              "z": 0
+            },
+            {
+              "__type__": "cc.Vec3",
+              "x": 0,
+              "y": 0.05,
+              "z": 0
+            }
+          ],
+          "easingMethods": {
+            "0": "quadInOut",
+            "1": "sineInOut",
+            "2": "cubicInOut",
+            "3": "quadInOut",
+            "5": "cubicInOut",
+            "6": "quadInOut",
+            "7": "cubicInOut"
+          }
+        }
+      }
+    ],
+    "_commonTargets": [],
+    "_hash": 453563284
+  },
+  {
+    "__type__": "cc.animation.HierarchyPath",
+    "path": "Final1/Bridge"
+  },
+  {
+    "__type__": "cc.animation.HierarchyPath",
+    "path": "Final1/Bridge"
+  }
+]

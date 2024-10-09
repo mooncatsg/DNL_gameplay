@@ -1,0 +1,100 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "273819b9-828b-43f4-9400-115c9e211edc",
+  "files": [],
+  "subMetas": {
+    "cf3bb": {
+      "importer": "gltf-animation",
+      "uuid": "273819b9-828b-43f4-9400-115c9e211edc@cf3bb",
+      "displayName": "",
+      "id": "cf3bb",
+      "name": "Dino_Attack.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 10.6,
+          "to": 11.29
+        },
+        "events": [
+          {
+            "frame": 0.23333333333333334,
+            "functionName": "",
+            "parameters": []
+          },
+          {
+            "frame": 0.23333333333333334,
+            "functionName": "ShootBullet",
+            "parameters": []
+          },
+          {
+            "frame": 0.7,
+            "functionName": "",
+            "parameters": []
+          },
+          {
+            "frame": 0.7,
+            "functionName": "onAttackEndListener",
+            "parameters": []
+          }
+        ],
+        "speed": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7fe9a": {
+      "importer": "gltf-scene",
+      "uuid": "273819b9-828b-43f4-9400-115c9e211edc@7fe9a",
+      "displayName": "",
+      "id": "7fe9a",
+      "name": "Dino_Attack.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Dino_Attack",
+        "duration": 11.291666984558105,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Dino_Attack",
+            "from": 10.6,
+            "to": 11.29,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "273819b9-828b-43f4-9400-115c9e211edc@7fe9a",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "273819b9-828b-43f4-9400-115c9e211edc@7fe9a"
+      ]
+    }
+  }
+}

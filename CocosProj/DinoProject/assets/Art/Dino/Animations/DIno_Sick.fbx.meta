@@ -1,0 +1,78 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "23f55cbd-20c5-46c8-88e1-d70dc23dbc0b",
+  "files": [],
+  "subMetas": {
+    "8533d": {
+      "importer": "gltf-animation",
+      "uuid": "23f55cbd-20c5-46c8-88e1-d70dc23dbc0b@8533d",
+      "displayName": "",
+      "id": "8533d",
+      "name": "DIno_Sick.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 20.95833396911621
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e1a5f": {
+      "importer": "gltf-scene",
+      "uuid": "23f55cbd-20c5-46c8-88e1-d70dc23dbc0b@e1a5f",
+      "displayName": "",
+      "id": "e1a5f",
+      "name": "DIno_Sick.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "DIno_Sick",
+        "duration": 20.95833396911621,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "DIno_Sick",
+            "from": 0,
+            "to": 20.95833396911621,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "23f55cbd-20c5-46c8-88e1-d70dc23dbc0b@e1a5f",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "23f55cbd-20c5-46c8-88e1-d70dc23dbc0b@e1a5f"
+      ]
+    }
+  }
+}

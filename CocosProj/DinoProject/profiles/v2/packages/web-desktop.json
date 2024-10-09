@@ -1,0 +1,10 @@
+{
+  "options": {
+    "web-desktop": {
+      "resolution": {
+        "designWidth": 1920,
+        "designHeight": 1080
+      }
+    }
+  }
+}

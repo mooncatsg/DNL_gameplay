@@ -1,0 +1,79 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "72015758-23ea-4728-91b0-ad4c5e6cc44e",
+  "files": [],
+  "subMetas": {
+    "25940": {
+      "importer": "gltf-scene",
+      "uuid": "72015758-23ea-4728-91b0-ad4c5e6cc44e@25940",
+      "displayName": "",
+      "id": "25940",
+      "name": "Dino_Happy.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2168f": {
+      "importer": "gltf-animation",
+      "uuid": "72015758-23ea-4728-91b0-ad4c5e6cc44e@2168f",
+      "displayName": "",
+      "id": "2168f",
+      "name": "Dino_Happy.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 17.333333333333332,
+          "to": 17.83333396911621
+        },
+        "events": [],
+        "speed": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Dino_Happy",
+        "duration": 17.83333396911621,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Dino_Happy",
+            "from": 17.333333333333332,
+            "to": 17.83333396911621,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "72015758-23ea-4728-91b0-ad4c5e6cc44e@25940",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "72015758-23ea-4728-91b0-ad4c5e6cc44e@25940"
+      ]
+    }
+  }
+}

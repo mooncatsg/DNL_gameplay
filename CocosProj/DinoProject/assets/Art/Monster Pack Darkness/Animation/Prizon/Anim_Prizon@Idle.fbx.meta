@@ -1,0 +1,78 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "37622ed0-6a20-43d6-9ebb-f571e871c784",
+  "files": [],
+  "subMetas": {
+    "c2696": {
+      "importer": "gltf-animation",
+      "uuid": "37622ed0-6a20-43d6-9ebb-f571e871c784@c2696",
+      "displayName": "",
+      "id": "c2696",
+      "name": "Idle.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.9583333134651184
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0ef42": {
+      "importer": "gltf-scene",
+      "uuid": "37622ed0-6a20-43d6-9ebb-f571e871c784@0ef42",
+      "displayName": "",
+      "id": "0ef42",
+      "name": "Anim_Prizon@Idle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Anim_Prizon@Idle",
+        "duration": 0.9583333134651184,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Idle",
+            "from": 0,
+            "to": 0.9583333134651184,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "37622ed0-6a20-43d6-9ebb-f571e871c784@0ef42",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "37622ed0-6a20-43d6-9ebb-f571e871c784@0ef42"
+      ]
+    }
+  }
+}

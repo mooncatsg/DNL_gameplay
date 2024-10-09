@@ -1,0 +1,226 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8623095c-bda0-4cf2-a521-8dbed9048b3f",
+  "files": [],
+  "subMetas": {
+    "8f117": {
+      "importer": "gltf-mesh",
+      "uuid": "8623095c-bda0-4cf2-a521-8dbed9048b3f@8f117",
+      "displayName": "",
+      "id": "8f117",
+      "name": "Cute_Spider_King.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b7689": {
+      "importer": "gltf-animation",
+      "uuid": "8623095c-bda0-4cf2-a521-8dbed9048b3f@b7689",
+      "displayName": "",
+      "id": "b7689",
+      "name": "Dizzy.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.9583333730697632
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "8623095c-bda0-4cf2-a521-8dbed9048b3f@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 20
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43c71": {
+      "importer": "gltf-embeded-image",
+      "uuid": "8623095c-bda0-4cf2-a521-8dbed9048b3f@43c71",
+      "displayName": "",
+      "id": "43c71",
+      "name": "file1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "adacb": {
+      "importer": "gltf-embeded-image",
+      "uuid": "8623095c-bda0-4cf2-a521-8dbed9048b3f@adacb",
+      "displayName": "",
+      "id": "adacb",
+      "name": "file2.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d20e9": {
+      "importer": "texture",
+      "uuid": "8623095c-bda0-4cf2-a521-8dbed9048b3f@d20e9",
+      "displayName": "",
+      "id": "d20e9",
+      "name": "file1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "8623095c-bda0-4cf2-a521-8dbed9048b3f@43c71"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e873a": {
+      "importer": "texture",
+      "uuid": "8623095c-bda0-4cf2-a521-8dbed9048b3f@e873a",
+      "displayName": "",
+      "id": "e873a",
+      "name": "file2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "8623095c-bda0-4cf2-a521-8dbed9048b3f@adacb"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a002b": {
+      "importer": "gltf-material",
+      "uuid": "8623095c-bda0-4cf2-a521-8dbed9048b3f@a002b",
+      "displayName": "",
+      "id": "a002b",
+      "name": "M_Cute_Spider_A.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "40b6e": {
+      "importer": "gltf-scene",
+      "uuid": "8623095c-bda0-4cf2-a521-8dbed9048b3f@40b6e",
+      "displayName": "",
+      "id": "40b6e",
+      "name": "Cute_Spider@Dizzy.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1",
+        "uri": "8623095c-bda0-4cf2-a521-8dbed9048b3f@43c71"
+      },
+      {
+        "name": "file2",
+        "uri": "8623095c-bda0-4cf2-a521-8dbed9048b3f@adacb"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 1.9583333730697632,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Dizzy",
+            "from": 0,
+            "to": 1.9583333730697632,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "8623095c-bda0-4cf2-a521-8dbed9048b3f@40b6e",
+    "assetFinder": {
+      "meshes": [
+        "8623095c-bda0-4cf2-a521-8dbed9048b3f@8f117"
+      ],
+      "skeletons": [
+        "8623095c-bda0-4cf2-a521-8dbed9048b3f@438fe"
+      ],
+      "textures": [
+        "8623095c-bda0-4cf2-a521-8dbed9048b3f@d20e9",
+        "8623095c-bda0-4cf2-a521-8dbed9048b3f@e873a"
+      ],
+      "materials": [
+        "8623095c-bda0-4cf2-a521-8dbed9048b3f@a002b"
+      ],
+      "scenes": [
+        "8623095c-bda0-4cf2-a521-8dbed9048b3f@40b6e"
+      ]
+    }
+  }
+}

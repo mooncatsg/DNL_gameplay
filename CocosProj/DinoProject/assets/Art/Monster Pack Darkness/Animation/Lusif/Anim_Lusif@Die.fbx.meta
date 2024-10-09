@@ -1,0 +1,79 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e1006fa9-11c5-41cb-8850-609b93d876ad",
+  "files": [],
+  "subMetas": {
+    "73d50": {
+      "importer": "gltf-animation",
+      "uuid": "e1006fa9-11c5-41cb-8850-609b93d876ad@73d50",
+      "displayName": "",
+      "id": "73d50",
+      "name": "Die.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 0,
+        "sample": 30,
+        "span": {
+          "from": 4.18,
+          "to": 5.791666507720947
+        },
+        "events": [],
+        "speed": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0dcfa": {
+      "importer": "gltf-scene",
+      "uuid": "e1006fa9-11c5-41cb-8850-609b93d876ad@0dcfa",
+      "displayName": "",
+      "id": "0dcfa",
+      "name": "Anim_Lusif@Die.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Anim_Lusif@Die",
+        "duration": 5.791666507720947,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Die",
+            "from": 4.18,
+            "to": 5.791666507720947,
+            "wrapMode": 0
+          }
+        ]
+      }
+    ],
+    "redirect": "e1006fa9-11c5-41cb-8850-609b93d876ad@0dcfa",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "e1006fa9-11c5-41cb-8850-609b93d876ad@0dcfa"
+      ]
+    }
+  }
+}

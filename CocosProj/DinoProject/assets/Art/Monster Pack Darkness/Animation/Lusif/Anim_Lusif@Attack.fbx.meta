@@ -1,0 +1,78 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8801938a-9784-45fd-959d-9eae81827187",
+  "files": [],
+  "subMetas": {
+    "2cd1c": {
+      "importer": "gltf-animation",
+      "uuid": "8801938a-9784-45fd-959d-9eae81827187@2cd1c",
+      "displayName": "",
+      "id": "2cd1c",
+      "name": "Attack.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 0,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.125
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d0b66": {
+      "importer": "gltf-scene",
+      "uuid": "8801938a-9784-45fd-959d-9eae81827187@d0b66",
+      "displayName": "",
+      "id": "d0b66",
+      "name": "Anim_Lusif@Attack.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Anim_Lusif@Attack",
+        "duration": 2.125,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Attack",
+            "from": 0,
+            "to": 2.125,
+            "wrapMode": 0
+          }
+        ]
+      }
+    ],
+    "redirect": "8801938a-9784-45fd-959d-9eae81827187@d0b66",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "8801938a-9784-45fd-959d-9eae81827187@d0b66"
+      ]
+    }
+  }
+}

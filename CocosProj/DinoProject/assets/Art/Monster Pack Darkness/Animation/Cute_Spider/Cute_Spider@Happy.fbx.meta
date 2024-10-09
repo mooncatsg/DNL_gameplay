@@ -1,0 +1,226 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "471659a1-87de-49df-8e76-5238633c2cce",
+  "files": [],
+  "subMetas": {
+    "8f117": {
+      "importer": "gltf-mesh",
+      "uuid": "471659a1-87de-49df-8e76-5238633c2cce@8f117",
+      "displayName": "",
+      "id": "8f117",
+      "name": "Cute_Spider_King.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d85fa": {
+      "importer": "gltf-animation",
+      "uuid": "471659a1-87de-49df-8e76-5238633c2cce@d85fa",
+      "displayName": "",
+      "id": "d85fa",
+      "name": "Happy.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.625
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "471659a1-87de-49df-8e76-5238633c2cce@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 20
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43c71": {
+      "importer": "gltf-embeded-image",
+      "uuid": "471659a1-87de-49df-8e76-5238633c2cce@43c71",
+      "displayName": "",
+      "id": "43c71",
+      "name": "file1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "adacb": {
+      "importer": "gltf-embeded-image",
+      "uuid": "471659a1-87de-49df-8e76-5238633c2cce@adacb",
+      "displayName": "",
+      "id": "adacb",
+      "name": "file2.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d20e9": {
+      "importer": "texture",
+      "uuid": "471659a1-87de-49df-8e76-5238633c2cce@d20e9",
+      "displayName": "",
+      "id": "d20e9",
+      "name": "file1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "471659a1-87de-49df-8e76-5238633c2cce@43c71"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e873a": {
+      "importer": "texture",
+      "uuid": "471659a1-87de-49df-8e76-5238633c2cce@e873a",
+      "displayName": "",
+      "id": "e873a",
+      "name": "file2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "471659a1-87de-49df-8e76-5238633c2cce@adacb"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a002b": {
+      "importer": "gltf-material",
+      "uuid": "471659a1-87de-49df-8e76-5238633c2cce@a002b",
+      "displayName": "",
+      "id": "a002b",
+      "name": "M_Cute_Spider_A.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "277ab": {
+      "importer": "gltf-scene",
+      "uuid": "471659a1-87de-49df-8e76-5238633c2cce@277ab",
+      "displayName": "",
+      "id": "277ab",
+      "name": "Cute_Spider@Happy.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1",
+        "uri": "471659a1-87de-49df-8e76-5238633c2cce@43c71"
+      },
+      {
+        "name": "file2",
+        "uri": "471659a1-87de-49df-8e76-5238633c2cce@adacb"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 2.625,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Happy",
+            "from": 0,
+            "to": 2.625,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "471659a1-87de-49df-8e76-5238633c2cce@277ab",
+    "assetFinder": {
+      "meshes": [
+        "471659a1-87de-49df-8e76-5238633c2cce@8f117"
+      ],
+      "skeletons": [
+        "471659a1-87de-49df-8e76-5238633c2cce@438fe"
+      ],
+      "textures": [
+        "471659a1-87de-49df-8e76-5238633c2cce@d20e9",
+        "471659a1-87de-49df-8e76-5238633c2cce@e873a"
+      ],
+      "materials": [
+        "471659a1-87de-49df-8e76-5238633c2cce@a002b"
+      ],
+      "scenes": [
+        "471659a1-87de-49df-8e76-5238633c2cce@277ab"
+      ]
+    }
+  }
+}

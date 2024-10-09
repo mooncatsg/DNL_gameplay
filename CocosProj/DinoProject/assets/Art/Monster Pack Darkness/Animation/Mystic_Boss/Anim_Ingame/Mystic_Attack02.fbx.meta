@@ -1,0 +1,100 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "020ff028-90ee-465e-9f8e-4275fb19decd",
+  "files": [],
+  "subMetas": {
+    "ae1a1": {
+      "importer": "gltf-animation",
+      "uuid": "020ff028-90ee-465e-9f8e-4275fb19decd@ae1a1",
+      "displayName": "",
+      "id": "ae1a1",
+      "name": "Attack_2.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 0,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.125
+        },
+        "events": [
+          {
+            "frame": 1.2,
+            "functionName": "",
+            "parameters": []
+          },
+          {
+            "frame": 1.2,
+            "functionName": "onMakeDamageInAttack2",
+            "parameters": []
+          },
+          {
+            "frame": 2.1333333333333333,
+            "functionName": "",
+            "parameters": []
+          },
+          {
+            "frame": 2.1333333333333333,
+            "functionName": "onAttackEndListener",
+            "parameters": []
+          }
+        ],
+        "speed": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "01f49": {
+      "importer": "gltf-scene",
+      "uuid": "020ff028-90ee-465e-9f8e-4275fb19decd@01f49",
+      "displayName": "",
+      "id": "01f49",
+      "name": "Mystic_Attack02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "mixamo.com",
+        "duration": 2.125,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Attack_2",
+            "from": 0,
+            "to": 2.125,
+            "wrapMode": 0
+          }
+        ]
+      }
+    ],
+    "redirect": "020ff028-90ee-465e-9f8e-4275fb19decd@01f49",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "020ff028-90ee-465e-9f8e-4275fb19decd@01f49"
+      ]
+    }
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e18fec95-6faa-43c0-8e55-4fa2b166e64b",
+  "files": [],
+  "subMetas": {
+    "56668": {
+      "importer": "gltf-mesh",
+      "uuid": "e18fec95-6faa-43c0-8e55-4fa2b166e64b@56668",
+      "displayName": "",
+      "id": "56668",
+      "name": "Batty.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ee42c": {
+      "importer": "gltf-animation",
+      "uuid": "e18fec95-6faa-43c0-8e55-4fa2b166e64b@ee42c",
+      "displayName": "",
+      "id": "ee42c",
+      "name": "HitBack.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.625
+        },
+        "events": [
+          {
+            "frame": 0.6333333333333333,
+            "functionName": "",
+            "parameters": []
+          },
+          {
+            "frame": 0.6333333333333333,
+            "functionName": "onAttackEndListener",
+            "parameters": []
+          }
+        ],
+        "speed": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "e18fec95-6faa-43c0-8e55-4fa2b166e64b@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 8
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43c71": {
+      "importer": "gltf-embeded-image",
+      "uuid": "e18fec95-6faa-43c0-8e55-4fa2b166e64b@43c71",
+      "displayName": "",
+      "id": "43c71",
+      "name": "file1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "adacb": {
+      "importer": "gltf-embeded-image",
+      "uuid": "e18fec95-6faa-43c0-8e55-4fa2b166e64b@adacb",
+      "displayName": "",
+      "id": "adacb",
+      "name": "file2.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d20e9": {
+      "importer": "texture",
+      "uuid": "e18fec95-6faa-43c0-8e55-4fa2b166e64b@d20e9",
+      "displayName": "",
+      "id": "d20e9",
+      "name": "file1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e18fec95-6faa-43c0-8e55-4fa2b166e64b@43c71"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e873a": {
+      "importer": "texture",
+      "uuid": "e18fec95-6faa-43c0-8e55-4fa2b166e64b@e873a",
+      "displayName": "",
+      "id": "e873a",
+      "name": "file2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e18fec95-6faa-43c0-8e55-4fa2b166e64b@adacb"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fa049": {
+      "importer": "gltf-material",
+      "uuid": "e18fec95-6faa-43c0-8e55-4fa2b166e64b@fa049",
+      "displayName": "",
+      "id": "fa049",
+      "name": "M_Batty_A.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d3b41": {
+      "importer": "gltf-scene",
+      "uuid": "e18fec95-6faa-43c0-8e55-4fa2b166e64b@d3b41",
+      "displayName": "",
+      "id": "d3b41",
+      "name": "BattyA@HitBack.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1",
+        "uri": "e18fec95-6faa-43c0-8e55-4fa2b166e64b@43c71"
+      },
+      {
+        "name": "file2",
+        "uri": "e18fec95-6faa-43c0-8e55-4fa2b166e64b@adacb"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.625,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "HitBack",
+            "from": 0,
+            "to": 0.625,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "e18fec95-6faa-43c0-8e55-4fa2b166e64b@d3b41",
+    "assetFinder": {
+      "meshes": [
+        "e18fec95-6faa-43c0-8e55-4fa2b166e64b@56668"
+      ],
+      "skeletons": [
+        "e18fec95-6faa-43c0-8e55-4fa2b166e64b@438fe"
+      ],
+      "textures": [
+        "e18fec95-6faa-43c0-8e55-4fa2b166e64b@d20e9",
+        "e18fec95-6faa-43c0-8e55-4fa2b166e64b@e873a"
+      ],
+      "materials": [
+        "e18fec95-6faa-43c0-8e55-4fa2b166e64b@fa049"
+      ],
+      "scenes": [
+        "e18fec95-6faa-43c0-8e55-4fa2b166e64b@d3b41"
+      ]
+    }
+  }
+}

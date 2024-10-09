@@ -1,0 +1,74 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "43ea6dc8-0f24-4f37-9577-2c85f34398c0",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "43ea6dc8-0f24-4f37-9577-2c85f34398c0@6c48a",
+      "displayName": "button_blue",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "43ea6dc8-0f24-4f37-9577-2c85f34398c0"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "43ea6dc8-0f24-4f37-9577-2c85f34398c0@f9941",
+      "displayName": "button_blue",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 189,
+        "height": 81,
+        "rawWidth": 189,
+        "rawHeight": 81,
+        "borderTop": 40,
+        "borderBottom": 40,
+        "borderLeft": 50,
+        "borderRight": 50,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "43ea6dc8-0f24-4f37-9577-2c85f34398c0@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "sprite-frame",
+    "redirect": "43ea6dc8-0f24-4f37-9577-2c85f34398c0@f9941"
+  }
+}

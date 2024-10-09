@@ -1,0 +1,78 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "44350c29-62b4-429d-9706-18ff0b39fae0",
+  "files": [],
+  "subMetas": {
+    "73d50": {
+      "importer": "gltf-animation",
+      "uuid": "44350c29-62b4-429d-9706-18ff0b39fae0@73d50",
+      "displayName": "",
+      "id": "73d50",
+      "name": "Die.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 0,
+        "sample": 30,
+        "span": {
+          "from": 3.8333333333333335,
+          "to": 4.958333492279053
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c662d": {
+      "importer": "gltf-scene",
+      "uuid": "44350c29-62b4-429d-9706-18ff0b39fae0@c662d",
+      "displayName": "",
+      "id": "c662d",
+      "name": "Anima_Spider@Die.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Anima_Spider@Die",
+        "duration": 4.958333492279053,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Die",
+            "from": 3.8333333333333335,
+            "to": 4.958333492279053,
+            "wrapMode": 0
+          }
+        ]
+      }
+    ],
+    "redirect": "44350c29-62b4-429d-9706-18ff0b39fae0@c662d",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "44350c29-62b4-429d-9706-18ff0b39fae0@c662d"
+      ]
+    }
+  }
+}

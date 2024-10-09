@@ -1,0 +1,193 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d3107a37-1cbf-446b-bb2b-403c56b493f4",
+  "files": [],
+  "subMetas": {
+    "4cfa4": {
+      "importer": "gltf-mesh",
+      "uuid": "d3107a37-1cbf-446b-bb2b-403c56b493f4@4cfa4",
+      "displayName": "",
+      "id": "4cfa4",
+      "name": "Normal.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1f586": {
+      "importer": "gltf-animation",
+      "uuid": "d3107a37-1cbf-446b-bb2b-403c56b493f4@1f586",
+      "displayName": "",
+      "id": "1f586",
+      "name": "idle.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4.625
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ae1a1": {
+      "importer": "gltf-animation",
+      "uuid": "d3107a37-1cbf-446b-bb2b-403c56b493f4@ae1a1",
+      "displayName": "",
+      "id": "ae1a1",
+      "name": "Attack_2.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 0,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.8333332538604736
+        },
+        "events": [
+          {
+            "frame": 1.4333333333333333,
+            "functionName": "",
+            "parameters": []
+          },
+          {
+            "frame": 1.4333333333333333,
+            "functionName": "onMakeDamageInAttack2",
+            "parameters": []
+          },
+          {
+            "frame": 2.8333333333333335,
+            "functionName": "",
+            "parameters": []
+          },
+          {
+            "frame": 2.8333333333333335,
+            "functionName": "onAttackEndListener",
+            "parameters": []
+          }
+        ],
+        "speed": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "d3107a37-1cbf-446b-bb2b-403c56b493f4@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 22
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "18dd4": {
+      "importer": "gltf-material",
+      "uuid": "d3107a37-1cbf-446b-bb2b-403c56b493f4@18dd4",
+      "displayName": "",
+      "id": "18dd4",
+      "name": "Normal_mat.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "26ef5": {
+      "importer": "gltf-scene",
+      "uuid": "d3107a37-1cbf-446b-bb2b-403c56b493f4@26ef5",
+      "displayName": "",
+      "id": "26ef5",
+      "name": "Mutant_Swiping.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 4.625,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "idle",
+            "from": 0,
+            "to": 4.625,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "mixamo.com",
+        "duration": 2.8333332538604736,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Attack_2",
+            "from": 0,
+            "to": 2.8333332538604736,
+            "wrapMode": 0
+          }
+        ]
+      }
+    ],
+    "redirect": "d3107a37-1cbf-446b-bb2b-403c56b493f4@26ef5",
+    "assetFinder": {
+      "meshes": [
+        "d3107a37-1cbf-446b-bb2b-403c56b493f4@4cfa4"
+      ],
+      "skeletons": [
+        "d3107a37-1cbf-446b-bb2b-403c56b493f4@438fe"
+      ],
+      "textures": [],
+      "materials": [
+        "d3107a37-1cbf-446b-bb2b-403c56b493f4@18dd4"
+      ],
+      "scenes": [
+        "d3107a37-1cbf-446b-bb2b-403c56b493f4@26ef5"
+      ]
+    }
+  }
+}

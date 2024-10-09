@@ -1,0 +1,76 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3ad9bfbd-a3f3-421a-a66c-7ce14d43ae30",
+  "files": [],
+  "subMetas": {
+    "6d68e": {
+      "importer": "gltf-mesh",
+      "uuid": "3ad9bfbd-a3f3-421a-a66c-7ce14d43ae30@6d68e",
+      "displayName": "",
+      "id": "6d68e",
+      "name": "group29Bevel_UVLotuspolySurface107group23.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c570b": {
+      "importer": "gltf-mesh",
+      "uuid": "3ad9bfbd-a3f3-421a-a66c-7ce14d43ae30@c570b",
+      "displayName": "",
+      "id": "c570b",
+      "name": "group29Bevel_UVLotusgroup23polySurface43.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a98cd": {
+      "importer": "gltf-scene",
+      "uuid": "3ad9bfbd-a3f3-421a-a66c-7ce14d43ae30@a98cd",
+      "displayName": "",
+      "id": "a98cd",
+      "name": "Lotus2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "3ad9bfbd-a3f3-421a-a66c-7ce14d43ae30@a98cd",
+    "assetFinder": {
+      "meshes": [
+        "3ad9bfbd-a3f3-421a-a66c-7ce14d43ae30@6d68e",
+        "3ad9bfbd-a3f3-421a-a66c-7ce14d43ae30@c570b"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "3ad9bfbd-a3f3-421a-a66c-7ce14d43ae30@a98cd"
+      ]
+    }
+  }
+}

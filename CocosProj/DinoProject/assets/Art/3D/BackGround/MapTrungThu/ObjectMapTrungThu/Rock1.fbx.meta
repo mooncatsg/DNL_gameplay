@@ -1,0 +1,58 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ef156abc-24bd-468f-a315-91fe51fba974",
+  "files": [],
+  "subMetas": {
+    "3c34c": {
+      "importer": "gltf-mesh",
+      "uuid": "ef156abc-24bd-468f-a315-91fe51fba974@3c34c",
+      "displayName": "",
+      "id": "3c34c",
+      "name": "group26group29Bevel_UVMRock7.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c79e8": {
+      "importer": "gltf-scene",
+      "uuid": "ef156abc-24bd-468f-a315-91fe51fba974@c79e8",
+      "displayName": "",
+      "id": "c79e8",
+      "name": "Rock1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "ef156abc-24bd-468f-a315-91fe51fba974@c79e8",
+    "assetFinder": {
+      "meshes": [
+        "ef156abc-24bd-468f-a315-91fe51fba974@3c34c"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "ef156abc-24bd-468f-a315-91fe51fba974@c79e8"
+      ]
+    }
+  }
+}

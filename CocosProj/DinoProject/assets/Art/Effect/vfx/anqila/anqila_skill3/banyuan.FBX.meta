@@ -1,0 +1,58 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "36351820-c09e-402a-93a8-a571554e9b83",
+  "files": [],
+  "subMetas": {
+    "fb329": {
+      "importer": "gltf-mesh",
+      "uuid": "36351820-c09e-402a-93a8-a571554e9b83@fb329",
+      "displayName": "",
+      "id": "fb329",
+      "name": "Sphere001.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cc67b": {
+      "importer": "gltf-scene",
+      "uuid": "36351820-c09e-402a-93a8-a571554e9b83@cc67b",
+      "displayName": "",
+      "id": "cc67b",
+      "name": "banyuan.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "36351820-c09e-402a-93a8-a571554e9b83@cc67b",
+    "assetFinder": {
+      "meshes": [
+        "36351820-c09e-402a-93a8-a571554e9b83@fb329"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "36351820-c09e-402a-93a8-a571554e9b83@cc67b"
+      ]
+    }
+  }
+}

@@ -1,0 +1,55 @@
+2021-08-18T13:57:15.475Z - normal: Load ~/.CocosCreator/settings.json
+2021-08-18T13:57:15.480Z - normal: checking language setting...
+2021-08-18T13:57:15.480Z - normal: Language: en
+2021-08-18T13:57:17.119Z - success: protocol editor-framework registered
+2021-08-18T13:57:17.119Z - success: protocol app registered
+2021-08-18T13:57:17.119Z - success: protocol theme registered
+2021-08-18T13:57:17.119Z - success: protocol profile registered
+2021-08-18T13:57:17.119Z - success: protocol packages registered
+2021-08-18T13:57:17.119Z - success: protocol unpack registerred
+2021-08-18T13:57:17.119Z - success: protocol disable-commonjs registerred
+2021-08-18T13:57:19.783Z - normal: connected!
+2021-08-18T13:57:19.787Z - normal: Check project D:\ShareFolder\BIENVT\CocosProject\dino-nft-project\CocosProj\DinoProject\settings\v2\packages
+2021-08-18T13:57:19.793Z - normal: Initializing Cocos2d
+2021-08-18T13:57:20.251Z - normal: Initializing Asset Database
+2021-08-18T13:57:20.295Z - success: protocol uuid registerred
+2021-08-18T13:57:20.295Z - success: protocol db registerred
+2021-08-18T13:57:20.295Z - success: protocol thumbnail registerred
+2021-08-18T13:57:20.295Z - normal: Loading editor/builtin packages
+2021-08-18T13:57:20.321Z - success: anysdk loaded
+2021-08-18T13:57:20.488Z - success: assets loaded
+2021-08-18T13:57:20.490Z - success: builder loaded
+2021-08-18T13:57:20.493Z - success: hierarchy loaded
+2021-08-18T13:57:20.497Z - success: inspector loaded
+2021-08-18T13:57:20.498Z - success: keystore loaded
+2021-08-18T13:57:20.502Z - success: node-library loaded
+2021-08-18T13:57:20.504Z - success: package-asset loaded
+2021-08-18T13:57:20.507Z - success: preferences loaded
+2021-08-18T13:57:20.524Z - success: project-importer loaded
+2021-08-18T13:57:20.527Z - success: project-settings loaded
+2021-08-18T13:57:20.529Z - success: ui-kit loaded
+2021-08-18T13:57:20.532Z - success: ui-grid loaded
+2021-08-18T13:57:20.536Z - success: scene loaded
+2021-08-18T13:57:20.538Z - success: sprite-editor loaded
+2021-08-18T13:57:20.542Z - success: store loaded
+2021-08-18T13:57:20.548Z - success: timeline loaded
+2021-08-18T13:57:20.548Z - normal: Loading builtin packages
+2021-08-18T13:57:20.551Z - success: asset-db-debugger loaded
+2021-08-18T13:57:20.553Z - success: code-editor loaded
+2021-08-18T13:57:20.554Z - success: color-picker loaded
+2021-08-18T13:57:20.558Z - success: console loaded
+2021-08-18T13:57:20.561Z - success: package-manager loaded
+2021-08-18T13:57:20.568Z - success: sdkbox loaded
+2021-08-18T13:57:20.571Z - success: tester loaded
+2021-08-18T13:57:20.574Z - success: ui-kit-preview-extra loaded
+2021-08-18T13:57:20.576Z - success: ui-kit-preview loaded
+2021-08-18T13:57:20.579Z - success: ui-tree loaded
+2021-08-18T13:57:21.731Z - normal: Initializing project D:\ShareFolder\BIENVT\CocosProject\dino-nft-project\CocosProj\DinoProject\settings\v2\packages
+2021-08-18T13:57:21.736Z - normal: Loading packages
+2021-08-18T13:57:21.742Z - normal: Watching packages
+2021-08-18T13:57:21.770Z - normal: Run Application
+2021-08-18T13:57:22.756Z - success: preview server running at http://localhost:7456
+2021-08-18T13:57:22.756Z - normal: Compiling scripts...
+2021-08-18T13:57:24.782Z - normal: Compiled project javascript file successfully
+2021-08-18T13:57:29.806Z - normal: 1.5.2
+2021-08-18T14:03:48.217Z - info: shutdown preview server

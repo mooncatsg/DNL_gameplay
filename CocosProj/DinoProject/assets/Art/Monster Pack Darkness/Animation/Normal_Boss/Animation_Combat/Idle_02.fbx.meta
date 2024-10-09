@@ -1,0 +1,134 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a3cd4694-a2cf-4a0e-a05a-39c00e2ae6cb",
+  "files": [],
+  "subMetas": {
+    "4cfa4": {
+      "importer": "gltf-mesh",
+      "uuid": "a3cd4694-a2cf-4a0e-a05a-39c00e2ae6cb@4cfa4",
+      "displayName": "",
+      "id": "4cfa4",
+      "name": "Normal.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c2696": {
+      "importer": "gltf-animation",
+      "uuid": "a3cd4694-a2cf-4a0e-a05a-39c00e2ae6cb@c2696",
+      "displayName": "",
+      "id": "c2696",
+      "name": "Idle.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3.2916667461395264
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "a3cd4694-a2cf-4a0e-a05a-39c00e2ae6cb@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 22
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "18dd4": {
+      "importer": "gltf-material",
+      "uuid": "a3cd4694-a2cf-4a0e-a05a-39c00e2ae6cb@18dd4",
+      "displayName": "",
+      "id": "18dd4",
+      "name": "Normal_mat.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d3e8": {
+      "importer": "gltf-scene",
+      "uuid": "a3cd4694-a2cf-4a0e-a05a-39c00e2ae6cb@8d3e8",
+      "displayName": "",
+      "id": "8d3e8",
+      "name": "Idle_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 3.2916667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Idle",
+            "from": 0,
+            "to": 3.2916667461395264,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "a3cd4694-a2cf-4a0e-a05a-39c00e2ae6cb@8d3e8",
+    "assetFinder": {
+      "meshes": [
+        "a3cd4694-a2cf-4a0e-a05a-39c00e2ae6cb@4cfa4"
+      ],
+      "skeletons": [
+        "a3cd4694-a2cf-4a0e-a05a-39c00e2ae6cb@438fe"
+      ],
+      "textures": [],
+      "materials": [
+        "a3cd4694-a2cf-4a0e-a05a-39c00e2ae6cb@18dd4"
+      ],
+      "scenes": [
+        "a3cd4694-a2cf-4a0e-a05a-39c00e2ae6cb@8d3e8"
+      ]
+    }
+  }
+}

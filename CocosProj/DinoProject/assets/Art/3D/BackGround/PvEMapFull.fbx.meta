@@ -1,0 +1,58 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b1ebac84-1181-4772-8bf4-db170c50f848",
+  "files": [],
+  "subMetas": {
+    "c60e4": {
+      "importer": "gltf-mesh",
+      "uuid": "b1ebac84-1181-4772-8bf4-db170c50f848@c60e4",
+      "displayName": "",
+      "id": "c60e4",
+      "name": "group40Final_ChiaUVCastle_1High_ChanLuoigroup28polySurface10group1group6.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c5262": {
+      "importer": "gltf-scene",
+      "uuid": "b1ebac84-1181-4772-8bf4-db170c50f848@c5262",
+      "displayName": "",
+      "id": "c5262",
+      "name": "PvEMapFull.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "b1ebac84-1181-4772-8bf4-db170c50f848@c5262",
+    "assetFinder": {
+      "meshes": [
+        "b1ebac84-1181-4772-8bf4-db170c50f848@c60e4"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "b1ebac84-1181-4772-8bf4-db170c50f848@c5262"
+      ]
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2692a8fb-cb13-465a-859b-eca4aeb40a83",
+  "files": [],
+  "subMetas": {
+    "b15d7": {
+      "importer": "gltf-animation",
+      "uuid": "2692a8fb-cb13-465a-859b-eca4aeb40a83@b15d7",
+      "displayName": "",
+      "id": "b15d7",
+      "name": "Dino_IdleA.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 1.61,
+          "to": 2.2916667461395264
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a72b4": {
+      "importer": "gltf-scene",
+      "uuid": "2692a8fb-cb13-465a-859b-eca4aeb40a83@a72b4",
+      "displayName": "",
+      "id": "a72b4",
+      "name": "Dino_IdleA.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Dino_IdleA",
+        "duration": 2.2916667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Dino_IdleA",
+            "from": 1.61,
+            "to": 2.2916667461395264,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "2692a8fb-cb13-465a-859b-eca4aeb40a83@a72b4",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "2692a8fb-cb13-465a-859b-eca4aeb40a83@a72b4"
+      ]
+    }
+  }
+}

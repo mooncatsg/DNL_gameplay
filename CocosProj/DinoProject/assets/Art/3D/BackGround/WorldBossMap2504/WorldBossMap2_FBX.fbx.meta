@@ -1,0 +1,76 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2276021a-6efa-49d0-9e5e-b0072178ed46",
+  "files": [],
+  "subMetas": {
+    "9ada1": {
+      "importer": "gltf-mesh",
+      "uuid": "2276021a-6efa-49d0-9e5e-b0072178ed46@9ada1",
+      "displayName": "",
+      "id": "9ada1",
+      "name": "WB.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a57be": {
+      "importer": "gltf-mesh",
+      "uuid": "2276021a-6efa-49d0-9e5e-b0072178ed46@a57be",
+      "displayName": "",
+      "id": "a57be",
+      "name": "Jungle.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4b751": {
+      "importer": "gltf-scene",
+      "uuid": "2276021a-6efa-49d0-9e5e-b0072178ed46@4b751",
+      "displayName": "",
+      "id": "4b751",
+      "name": "WorldBossMap2_FBX.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "2276021a-6efa-49d0-9e5e-b0072178ed46@4b751",
+    "assetFinder": {
+      "meshes": [
+        "2276021a-6efa-49d0-9e5e-b0072178ed46@9ada1",
+        "2276021a-6efa-49d0-9e5e-b0072178ed46@a57be"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "2276021a-6efa-49d0-9e5e-b0072178ed46@4b751"
+      ]
+    }
+  }
+}

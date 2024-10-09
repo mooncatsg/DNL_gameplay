@@ -1,0 +1,16 @@
+{
+  "options": {
+    "web-desktop": {
+      "configID": "d65d36",
+      "services": []
+    },
+    "web-mobile": {
+      "configID": "d65d36",
+      "services": []
+    }
+  },
+  "builder-options": {
+    "configID": "d65d36",
+    "services": []
+  }
+}

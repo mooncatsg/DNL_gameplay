@@ -1,0 +1,238 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f08ef629-d24e-40ce-a50c-7c4e8c3db928",
+  "files": [],
+  "subMetas": {
+    "56668": {
+      "importer": "gltf-mesh",
+      "uuid": "f08ef629-d24e-40ce-a50c-7c4e8c3db928@56668",
+      "displayName": "",
+      "id": "56668",
+      "name": "Batty.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f1008": {
+      "importer": "gltf-animation",
+      "uuid": "f08ef629-d24e-40ce-a50c-7c4e8c3db928@f1008",
+      "displayName": "",
+      "id": "f1008",
+      "name": "FlyingAroundAtk.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3.0416667461395264
+        },
+        "events": [
+          {
+            "frame": 3,
+            "functionName": "",
+            "parameters": []
+          },
+          {
+            "frame": 3,
+            "functionName": "onAttackEndListener",
+            "parameters": []
+          }
+        ],
+        "speed": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "f08ef629-d24e-40ce-a50c-7c4e8c3db928@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 8
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43c71": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f08ef629-d24e-40ce-a50c-7c4e8c3db928@43c71",
+      "displayName": "",
+      "id": "43c71",
+      "name": "file1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "adacb": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f08ef629-d24e-40ce-a50c-7c4e8c3db928@adacb",
+      "displayName": "",
+      "id": "adacb",
+      "name": "file2.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d20e9": {
+      "importer": "texture",
+      "uuid": "f08ef629-d24e-40ce-a50c-7c4e8c3db928@d20e9",
+      "displayName": "",
+      "id": "d20e9",
+      "name": "file1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f08ef629-d24e-40ce-a50c-7c4e8c3db928@43c71"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e873a": {
+      "importer": "texture",
+      "uuid": "f08ef629-d24e-40ce-a50c-7c4e8c3db928@e873a",
+      "displayName": "",
+      "id": "e873a",
+      "name": "file2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f08ef629-d24e-40ce-a50c-7c4e8c3db928@adacb"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fa049": {
+      "importer": "gltf-material",
+      "uuid": "f08ef629-d24e-40ce-a50c-7c4e8c3db928@fa049",
+      "displayName": "",
+      "id": "fa049",
+      "name": "M_Batty_A.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a3694": {
+      "importer": "gltf-scene",
+      "uuid": "f08ef629-d24e-40ce-a50c-7c4e8c3db928@a3694",
+      "displayName": "",
+      "id": "a3694",
+      "name": "BattyA@FlyingAroundAtk.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1",
+        "uri": "f08ef629-d24e-40ce-a50c-7c4e8c3db928@43c71"
+      },
+      {
+        "name": "file2",
+        "uri": "f08ef629-d24e-40ce-a50c-7c4e8c3db928@adacb"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 3.0416667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "FlyingAroundAtk",
+            "from": 0,
+            "to": 3.0416667461395264,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "f08ef629-d24e-40ce-a50c-7c4e8c3db928@a3694",
+    "assetFinder": {
+      "meshes": [
+        "f08ef629-d24e-40ce-a50c-7c4e8c3db928@56668"
+      ],
+      "skeletons": [
+        "f08ef629-d24e-40ce-a50c-7c4e8c3db928@438fe"
+      ],
+      "textures": [
+        "f08ef629-d24e-40ce-a50c-7c4e8c3db928@d20e9",
+        "f08ef629-d24e-40ce-a50c-7c4e8c3db928@e873a"
+      ],
+      "materials": [
+        "f08ef629-d24e-40ce-a50c-7c4e8c3db928@fa049"
+      ],
+      "scenes": [
+        "f08ef629-d24e-40ce-a50c-7c4e8c3db928@a3694"
+      ]
+    }
+  }
+}

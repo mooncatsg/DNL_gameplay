@@ -1,0 +1,58 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5d99909c-cf35-4259-be7f-92c2b102475f",
+  "files": [],
+  "subMetas": {
+    "b8b3c": {
+      "importer": "gltf-mesh",
+      "uuid": "5d99909c-cf35-4259-be7f-92c2b102475f@b8b3c",
+      "displayName": "",
+      "id": "b8b3c",
+      "name": "MapTrungThu.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "abc83": {
+      "importer": "gltf-scene",
+      "uuid": "5d99909c-cf35-4259-be7f-92c2b102475f@abc83",
+      "displayName": "",
+      "id": "abc83",
+      "name": "MapTrungThuFull.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "5d99909c-cf35-4259-be7f-92c2b102475f@abc83",
+    "assetFinder": {
+      "meshes": [
+        "5d99909c-cf35-4259-be7f-92c2b102475f@b8b3c"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "5d99909c-cf35-4259-be7f-92c2b102475f@abc83"
+      ]
+    }
+  }
+}

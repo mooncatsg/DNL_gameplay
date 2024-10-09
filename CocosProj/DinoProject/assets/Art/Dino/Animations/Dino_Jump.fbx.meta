@@ -1,0 +1,78 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c3ed7c49-1093-4ee5-8488-2bc9be5255dc",
+  "files": [],
+  "subMetas": {
+    "497ea": {
+      "importer": "gltf-animation",
+      "uuid": "c3ed7c49-1093-4ee5-8488-2bc9be5255dc@497ea",
+      "displayName": "",
+      "id": "497ea",
+      "name": "Dino_Jump.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 7.458333492279053
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ea244": {
+      "importer": "gltf-scene",
+      "uuid": "c3ed7c49-1093-4ee5-8488-2bc9be5255dc@ea244",
+      "displayName": "",
+      "id": "ea244",
+      "name": "Dino_Jump.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Dino_Jump",
+        "duration": 7.458333492279053,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Dino_Jump",
+            "from": 0,
+            "to": 7.458333492279053,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "c3ed7c49-1093-4ee5-8488-2bc9be5255dc@ea244",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "c3ed7c49-1093-4ee5-8488-2bc9be5255dc@ea244"
+      ]
+    }
+  }
+}

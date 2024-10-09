@@ -1,0 +1,58 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "97f02e1a-498a-43f3-bac8-a79702d8e8e4",
+  "files": [],
+  "subMetas": {
+    "28060": {
+      "importer": "gltf-mesh",
+      "uuid": "97f02e1a-498a-43f3-bac8-a79702d8e8e4@28060",
+      "displayName": "",
+      "id": "28060",
+      "name": "BridgeBevel_UVMoon.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "266e5": {
+      "importer": "gltf-scene",
+      "uuid": "97f02e1a-498a-43f3-bac8-a79702d8e8e4@266e5",
+      "displayName": "",
+      "id": "266e5",
+      "name": "Moon.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "97f02e1a-498a-43f3-bac8-a79702d8e8e4@266e5",
+    "assetFinder": {
+      "meshes": [
+        "97f02e1a-498a-43f3-bac8-a79702d8e8e4@28060"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "97f02e1a-498a-43f3-bac8-a79702d8e8e4@266e5"
+      ]
+    }
+  }
+}

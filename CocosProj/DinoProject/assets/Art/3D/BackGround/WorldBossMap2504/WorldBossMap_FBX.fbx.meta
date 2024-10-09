@@ -1,0 +1,93 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "858fe6a0-8eda-4c60-a2d2-a56995eb859a",
+  "files": [],
+  "subMetas": {
+    "dc297": {
+      "importer": "gltf-mesh",
+      "uuid": "858fe6a0-8eda-4c60-a2d2-a56995eb859a@dc297",
+      "displayName": "",
+      "id": "dc297",
+      "name": "WorldBossMap_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "91c8a": {
+      "importer": "gltf-material",
+      "uuid": "858fe6a0-8eda-4c60-a2d2-a56995eb859a@91c8a",
+      "displayName": "",
+      "id": "91c8a",
+      "name": "JungleSG3.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4026f": {
+      "importer": "gltf-material",
+      "uuid": "858fe6a0-8eda-4c60-a2d2-a56995eb859a@4026f",
+      "displayName": "",
+      "id": "4026f",
+      "name": "WorldBossMapSG1.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "228a5": {
+      "importer": "gltf-scene",
+      "uuid": "858fe6a0-8eda-4c60-a2d2-a56995eb859a@228a5",
+      "displayName": "",
+      "id": "228a5",
+      "name": "WorldBossMap_FBX.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "858fe6a0-8eda-4c60-a2d2-a56995eb859a@228a5",
+    "assetFinder": {
+      "meshes": [
+        "858fe6a0-8eda-4c60-a2d2-a56995eb859a@dc297"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "858fe6a0-8eda-4c60-a2d2-a56995eb859a@91c8a",
+        "858fe6a0-8eda-4c60-a2d2-a56995eb859a@4026f"
+      ],
+      "scenes": [
+        "858fe6a0-8eda-4c60-a2d2-a56995eb859a@228a5"
+      ]
+    }
+  }
+}

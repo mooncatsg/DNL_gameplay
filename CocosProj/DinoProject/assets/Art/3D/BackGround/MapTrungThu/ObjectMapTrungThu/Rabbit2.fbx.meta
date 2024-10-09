@@ -1,0 +1,58 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8a9d9bf0-a083-4eda-b5ce-855d6992359d",
+  "files": [],
+  "subMetas": {
+    "256d0": {
+      "importer": "gltf-mesh",
+      "uuid": "8a9d9bf0-a083-4eda-b5ce-855d6992359d@256d0",
+      "displayName": "",
+      "id": "256d0",
+      "name": "Water:group29Bevel_UVRabbit_9.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a2375": {
+      "importer": "gltf-scene",
+      "uuid": "8a9d9bf0-a083-4eda-b5ce-855d6992359d@a2375",
+      "displayName": "",
+      "id": "a2375",
+      "name": "Rabbit2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "8a9d9bf0-a083-4eda-b5ce-855d6992359d@a2375",
+    "assetFinder": {
+      "meshes": [
+        "8a9d9bf0-a083-4eda-b5ce-855d6992359d@256d0"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "8a9d9bf0-a083-4eda-b5ce-855d6992359d@a2375"
+      ]
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "72692d9e-80a6-40ea-86bf-6a29aba1e894",
+  "files": [],
+  "subMetas": {
+    "c2696": {
+      "importer": "gltf-animation",
+      "uuid": "72692d9e-80a6-40ea-86bf-6a29aba1e894@c2696",
+      "displayName": "",
+      "id": "c2696",
+      "name": "Idle.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.9583333134651184
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ca5ed": {
+      "importer": "gltf-scene",
+      "uuid": "72692d9e-80a6-40ea-86bf-6a29aba1e894@ca5ed",
+      "displayName": "",
+      "id": "ca5ed",
+      "name": "Anim_Lusif@Idle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Anim_Lusif@Idle",
+        "duration": 0.9583333134651184,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Idle",
+            "from": 0,
+            "to": 0.9583333134651184,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "72692d9e-80a6-40ea-86bf-6a29aba1e894@ca5ed",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "72692d9e-80a6-40ea-86bf-6a29aba1e894@ca5ed"
+      ]
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "801ae6ef-4644-43f9-83f0-440ea6fafc69",
+  "files": [],
+  "subMetas": {
+    "62923": {
+      "importer": "gltf-scene",
+      "uuid": "801ae6ef-4644-43f9-83f0-440ea6fafc69@62923",
+      "displayName": "",
+      "id": "62923",
+      "name": "Dino_No.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "852c7": {
+      "importer": "gltf-animation",
+      "uuid": "801ae6ef-4644-43f9-83f0-440ea6fafc69@852c7",
+      "displayName": "",
+      "id": "852c7",
+      "name": "Dino_No.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 15.625
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Dino_No",
+        "duration": 15.625,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Dino_No",
+            "from": 0,
+            "to": 15.625,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "801ae6ef-4644-43f9-83f0-440ea6fafc69@62923",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "801ae6ef-4644-43f9-83f0-440ea6fafc69@62923"
+      ]
+    }
+  }
+}

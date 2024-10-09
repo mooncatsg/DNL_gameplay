@@ -1,0 +1,90 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c19572d9-a006-4957-949f-aadb3120ec58",
+  "files": [],
+  "subMetas": {
+    "2cd1c": {
+      "importer": "gltf-animation",
+      "uuid": "c19572d9-a006-4957-949f-aadb3120ec58@2cd1c",
+      "displayName": "",
+      "id": "2cd1c",
+      "name": "Attack.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 0,
+        "sample": 30,
+        "span": {
+          "from": 2.59,
+          "to": 3.02
+        },
+        "events": [
+          {
+            "frame": 0.4,
+            "functionName": "",
+            "parameters": []
+          },
+          {
+            "frame": 0.4,
+            "functionName": "onAttackEndListener",
+            "parameters": []
+          }
+        ],
+        "speed": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3e300": {
+      "importer": "gltf-scene",
+      "uuid": "c19572d9-a006-4957-949f-aadb3120ec58@3e300",
+      "displayName": "",
+      "id": "3e300",
+      "name": "Anim_Batty@Attack.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Anim_Batty@Attack",
+        "duration": 3.0833332538604736,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Attack",
+            "from": 2.59,
+            "to": 3.02,
+            "wrapMode": 0
+          }
+        ]
+      }
+    ],
+    "redirect": "c19572d9-a006-4957-949f-aadb3120ec58@3e300",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "c19572d9-a006-4957-949f-aadb3120ec58@3e300"
+      ]
+    }
+  }
+}

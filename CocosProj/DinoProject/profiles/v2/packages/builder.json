@@ -1,0 +1,413 @@
+{
+  "__version__": "1.2.8",
+  "BuildTaskManager": {
+    "taskMap": {
+      "1642200243317": {
+        "id": "1642200243317",
+        "progress": 1,
+        "state": "success",
+        "message": "3-1-2023 14:09 Build success in 14536 ms!",
+        "options": {
+          "name": "DinoProject",
+          "platform": "web-mobile",
+          "buildPath": "project://build/din-gamecocosdist.git",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": true,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "fd9ea8d9-2a36-4cb7-b0a6-e387e2ebac93",
+          "scenes": [
+            {
+              "url": "db://assets/hoihv_vfx/vfx_scene.scene",
+              "uuid": "1a47cc8f-bfd7-461e-9bf5-1e3fa4c14064",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/ArenaModeChooseBattle.scene",
+              "uuid": "8cbfb5df-18b4-4323-84e2-8b8461ea8168",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/Breading.scene",
+              "uuid": "fd846bc7-3635-47a9-9ebb-27f4d2038942",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/BreadingMobile.scene",
+              "uuid": "caa5a923-bb0d-4ed6-9ce5-131d761a5ab2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/DemoDinoPart.scene",
+              "uuid": "e5b4b594-b2c6-49f8-b2a2-9ad6bbab79f4",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/DinoDetail.scene",
+              "uuid": "5b6c0de1-7b06-4c2d-8f15-6b5e135a413b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/DinoDetailMobile.scene",
+              "uuid": "2d9b05fe-58dd-40ea-bfb4-278399782f3a",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/DinoLoading.scene",
+              "uuid": "034a8e02-94a5-4eb1-a11e-02cc559783fc",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/DinoMarket.scene",
+              "uuid": "cd281678-35a4-4d65-89cf-cd3f3049d9cd",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/DinoMarketMobile.scene",
+              "uuid": "1b6a146f-e337-48e3-b495-f656fab0096b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/DinoPart.scene",
+              "uuid": "8b90a306-909e-449c-97e2-89cb7d3a08a6",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/EvolveScene.scene",
+              "uuid": "bfba58b8-5268-4adf-8215-b985498e82bb",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/Fusion.scene",
+              "uuid": "6ec3bdd5-8b74-445f-a54a-d67093705914",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/FusionMobile.scene",
+              "uuid": "a9919ba8-4858-416b-a171-3bcd580e23e3",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/Gameplay.scene",
+              "uuid": "fcf0c816-050b-46b6-a99b-3523dc1af167",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/GameplayPVP.scene",
+              "uuid": "6ac4796b-7dd5-4d22-b7f4-37f7b45abe8b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/GameplayWorldBoss.scene",
+              "uuid": "e9716114-6796-4688-bb3e-7a18f9e99d7a",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/GameplayWorldBossMobile.scene",
+              "uuid": "5ce768b1-36c9-4019-b15e-caad6f0e3524",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/Hatching.scene",
+              "uuid": "89abc6e9-71fd-4342-a4e6-0fa254483d4f",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/Loading.scene",
+              "uuid": "fd9ea8d9-2a36-4cb7-b0a6-e387e2ebac93",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/Metaverse_Hatch.scene",
+              "uuid": "a3d5ef25-c58e-40c1-8bbb-6c8ec98faa61",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/PVE.scene",
+              "uuid": "cb9c72d1-7aa0-4ff7-8435-96cdcfddbc4a",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/PVPChooseBattle.scene",
+              "uuid": "a6a6c4fc-deef-4279-804e-24501d7181d0",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/PVPChooseBattleMobile.scene",
+              "uuid": "1d881161-6cd1-4448-80f5-e6da8d6bc599",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/Reset.scene",
+              "uuid": "74175343-ac71-4c30-a09b-fa589eb1ed01",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/WorldBoss.scene",
+              "uuid": "0575d544-0cdd-4f83-b978-324107f1a509",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/WorldBossMobile.scene",
+              "uuid": "db2d5e63-a270-49f6-9b70-b3cdaa792c5f",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/helloworld.scene",
+              "uuid": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+              "inBundle": false
+            }
+          ],
+          "outputName": "gameplay",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "d65d36",
+              "services": []
+            }
+          }
+        },
+        "time": "3-1-2023 14:09",
+        "dirty": false
+      },
+      "1646519332182": {
+        "id": "1646519332182",
+        "progress": 1,
+        "state": "success",
+        "message": "7-22-2022 12:35 Build success in 6357 ms!",
+        "options": {
+          "name": "DinoProject",
+          "platform": "web-desktop",
+          "buildPath": "project://build/din-gamecocosdist.git",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": true,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "e5b4b594-b2c6-49f8-b2a2-9ad6bbab79f4",
+          "scenes": [
+            {
+              "url": "db://assets/Scenes/DemoDinoPart.scene",
+              "uuid": "e5b4b594-b2c6-49f8-b2a2-9ad6bbab79f4"
+            }
+          ],
+          "outputName": "DemoDino",
+          "packages": {
+            "web-desktop": {
+              "resolution": {
+                "designWidth": 1920,
+                "designHeight": 1080
+              },
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "d65d36",
+              "services": []
+            }
+          }
+        },
+        "time": "7-22-2022 12:34",
+        "dirty": false
+      },
+      "1647456343329": {
+        "id": "1647456343329",
+        "progress": 1,
+        "state": "success",
+        "message": "8-5-2022 14:21 Build success in 6363 ms!",
+        "options": {
+          "name": "DinoProject",
+          "platform": "web-mobile",
+          "buildPath": "project://build/din-gamecocosdist.git",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": true,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "8b90a306-909e-449c-97e2-89cb7d3a08a6",
+          "scenes": [
+            {
+              "url": "db://assets/Scenes/DinoPart.scene",
+              "uuid": "8b90a306-909e-449c-97e2-89cb7d3a08a6",
+              "inBundle": false
+            }
+          ],
+          "outputName": "dino-part",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "d65d36",
+              "services": []
+            }
+          }
+        },
+        "time": "8-5-2022 14:21",
+        "dirty": false
+      }
+    }
+  },
+  "common": {
+    "outputName": "dino-part",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "web-mobile",
+    "scenes": [
+      {
+        "url": "db://assets/Scenes/ArenaModeChooseBattle.scene",
+        "uuid": "8cbfb5df-18b4-4323-84e2-8b8461ea8168",
+        "inBundle": false
+      },
+      {
+        "url": "db://assets/Scenes/Breading.scene",
+        "uuid": "fd846bc7-3635-47a9-9ebb-27f4d2038942",
+        "inBundle": false
+      },
+      {
+        "url": "db://assets/Scenes/BreadingMobile.scene",
+        "uuid": "caa5a923-bb0d-4ed6-9ce5-131d761a5ab2",
+        "inBundle": false
+      },
+      {
+        "url": "db://assets/Scenes/DinoDetail.scene",
+        "uuid": "5b6c0de1-7b06-4c2d-8f15-6b5e135a413b",
+        "inBundle": false
+      },
+      {
+        "url": "db://assets/Scenes/DinoDetailMobile.scene",
+        "uuid": "2d9b05fe-58dd-40ea-bfb4-278399782f3a",
+        "inBundle": false
+      },
+      {
+        "url": "db://assets/Scenes/DinoLoading.scene",
+        "uuid": "034a8e02-94a5-4eb1-a11e-02cc559783fc",
+        "inBundle": false
+      },
+      {
+        "url": "db://assets/Scenes/DinoMarket.scene",
+        "uuid": "cd281678-35a4-4d65-89cf-cd3f3049d9cd",
+        "inBundle": false
+      },
+      {
+        "url": "db://assets/Scenes/DinoPart.scene",
+        "uuid": "8b90a306-909e-449c-97e2-89cb7d3a08a6",
+        "inBundle": false
+      },
+      {
+        "url": "db://assets/Scenes/EvolveScene.scene",
+        "uuid": "bfba58b8-5268-4adf-8215-b985498e82bb",
+        "inBundle": false
+      },
+      {
+        "url": "db://assets/Scenes/Gameplay.scene",
+        "uuid": "fcf0c816-050b-46b6-a99b-3523dc1af167",
+        "inBundle": false
+      },
+      {
+        "url": "db://assets/Scenes/GameplayWorldBoss.scene",
+        "uuid": "e9716114-6796-4688-bb3e-7a18f9e99d7a",
+        "inBundle": false
+      },
+      {
+        "url": "db://assets/Scenes/Hatching.scene",
+        "uuid": "89abc6e9-71fd-4342-a4e6-0fa254483d4f",
+        "inBundle": false
+      },
+      {
+        "url": "db://assets/Scenes/Loading.scene",
+        "uuid": "fd9ea8d9-2a36-4cb7-b0a6-e387e2ebac93",
+        "inBundle": false
+      },
+      {
+        "url": "db://assets/Scenes/Metaverse_Hatch.scene",
+        "uuid": "a3d5ef25-c58e-40c1-8bbb-6c8ec98faa61",
+        "inBundle": false
+      },
+      {
+        "url": "db://assets/Scenes/PVE.scene",
+        "uuid": "cb9c72d1-7aa0-4ff7-8435-96cdcfddbc4a",
+        "inBundle": false
+      },
+      {
+        "url": "db://assets/Scenes/Reset.scene",
+        "uuid": "74175343-ac71-4c30-a09b-fa589eb1ed01",
+        "inBundle": false
+      },
+      {
+        "url": "db://assets/Scenes/WorldBoss.scene",
+        "uuid": "0575d544-0cdd-4f83-b978-324107f1a509",
+        "inBundle": false
+      },
+      {
+        "url": "db://assets/Scenes/WorldBossMobile.scene",
+        "uuid": "db2d5e63-a270-49f6-9b70-b3cdaa792c5f"
+      },
+      {
+        "url": "db://assets/Scenes/Fusion.scene",
+        "uuid": "6ec3bdd5-8b74-445f-a54a-d67093705914"
+      },
+      {
+        "url": "db://assets/Scenes/FusionMobile.scene",
+        "uuid": "a9919ba8-4858-416b-a171-3bcd580e23e3"
+      },
+      {
+        "url": "db://assets/Scenes/GameplayPVP.scene",
+        "uuid": "6ac4796b-7dd5-4d22-b7f4-37f7b45abe8b"
+      },
+      {
+        "url": "db://assets/Scenes/GameplayWorldBossMobile.scene",
+        "uuid": "5ce768b1-36c9-4019-b15e-caad6f0e3524"
+      },
+      {
+        "url": "db://assets/Scenes/PVPChooseBattle.scene",
+        "uuid": "a6a6c4fc-deef-4279-804e-24501d7181d0"
+      },
+      {
+        "url": "db://assets/Scenes/DinoMarketMobile.scene",
+        "uuid": "1b6a146f-e337-48e3-b495-f656fab0096b"
+      },
+      {
+        "url": "db://assets/Scenes/PVPChooseBattleMobile.scene",
+        "uuid": "1d881161-6cd1-4448-80f5-e6da8d6bc599"
+      },
+      {
+        "url": "db://assets/Scenes/ArenaModeChooseBattle.scene",
+        "uuid": "8cbfb5df-18b4-4323-84e2-8b8461ea8168"
+      },
+      {
+        "url": "db://assets/Scenes/GameplayArenaMode.scene",
+        "uuid": "1ff1d8b1-e87f-4dcd-b25d-99bc2449efb0"
+      }
+    ],
+    "startScene": "e5b4b594-b2c6-49f8-b2a2-9ad6bbab79f4",
+    "replaceSplashScreen": true,
+    "experimentalEraseModules": false,
+    "sourceMaps": false,
+    "buildPath": "project://build/din-gamecocosdist.git"
+  }
+}
